@@ -10,8 +10,9 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "@types/node": "^22.13.17",
     "@xmldom/xmldom": "^0.9.8",
-    "ts-node": "^10.9.2"
+    "@types/node": "^22.13.17",
+    "ts-node": "^10.9.2",
+    "@types/geojson": "latest"
   }
 }

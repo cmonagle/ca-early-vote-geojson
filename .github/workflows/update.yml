@@ -3,6 +3,9 @@ name: Update and Commit Changes
 on:
   schedule:
     - cron: "0 6 * * *" # 1AM ET (6AM UTC)
+  push:
+    branches:
+      - test-action
 
 jobs:
   update-and-commit:
@@ -11,14 +14,16 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
-
+        with:
+            token: ${{ secrets.PAT }}
+  
       - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
           node-version: '22.14.0'
 
       - name: Install dependencies
-        run: npm install
+        run: npm ci
 
       - name: Run npm start
         run: npm start
