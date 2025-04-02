@@ -1,0 +1,605 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "location_fetched_at": "Wed, 02 Apr 2025 15:42:50 GMT",
+        "nameF": "Élections Canada",
+        "cityF": "Meadow Lake",
+        "addressF": "515 3rd Street West, bureau 401",
+        "nameE": "Elections Canada",
+        "cityE": "Meadow Lake",
+        "addressE": "515 3rd Street West, Suite 401",
+        "prov": "SK",
+        "pstl": "S9X1L1",
+        "lat": "54.1269217",
+        "lng": "-108.43797781",
+        "sitetype": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.43797781,
+          54.1269217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_fetched_at": "Wed, 02 Apr 2025 15:42:50 GMT",
+        "nameF": "Élections Canada",
+        "cityF": "North Battleford",
+        "addressF": "11429, avenue Railway Est, bureau Bay 11",
+        "nameE": "Frontier Centre",
+        "cityE": "North Battleford",
+        "addressE": "11429 Railway Avenue East, Suite Bay 11",
+        "prov": "SK",
+        "pstl": "S9A3G8",
+        "lat": "52.76029024",
+        "lng": "-108.27807584",
+        "sitetype": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.27807584,
+          52.76029024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_fetched_at": "Wed, 02 Apr 2025 15:42:50 GMT",
+        "nameF": "Élections Canada",
+        "cityF": "Humboldt",
+        "addressF": "627, rue Main",
+        "nameE": "Elections Canada",
+        "cityE": "Humboldt",
+        "addressE": "627 Main Street",
+        "prov": "SK",
+        "pstl": "S0K2A0",
+        "lat": "52.1995741",
+        "lng": "-105.12315924",
+        "sitetype": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.12315924,
+          52.1995741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_fetched_at": "Wed, 02 Apr 2025 15:42:50 GMT",
+        "nameF": "Élections Canada",
+        "cityF": "Warman",
+        "addressF": "520, rue Central  Ouest, bureau 5",
+        "nameE": "Elections Canada",
+        "cityE": "Warman",
+        "addressE": "520 Central  Street West, Suite 5",
+        "prov": "SK",
+        "pstl": "S0K4S0",
+        "lat": "52.3189625",
+        "lng": "-106.58535408",
+        "sitetype": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.58535408,
+          52.3189625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_fetched_at": "Wed, 02 Apr 2025 15:42:50 GMT",
+        "nameF": "Élections Canada",
+        "cityF": "La Ronge",
+        "addressF": "727, rue Poirier",
+        "nameE": "Elections Canada",
+        "cityE": "La Ronge",
+        "addressE": "727 Poirier Street",
+        "prov": "SK",
+        "pstl": "S0J1L0",
+        "lat": "55.113371",
+        "lng": "-105.29738204",
+        "sitetype": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.29738204,
+          55.113371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_fetched_at": "Wed, 02 Apr 2025 15:42:50 GMT",
+        "nameF": "Élections Canada",
+        "cityF": "Denare Beach",
+        "addressF": "1718 Wigwam Drive",
+        "nameE": "DenarePlex",
+        "cityE": "Denare Beach",
+        "addressE": "1718 Wigwam Drive",
+        "prov": "SK",
+        "pstl": "S0P0B0",
+        "lat": "54.6632576",
+        "lng": "-102.07781977",
+        "sitetype": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.07781977,
+          54.6632576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_fetched_at": "Wed, 02 Apr 2025 15:42:50 GMT",
+        "nameF": "Élections Canada",
+        "cityF": "Beauval",
+        "addressF": "rue Lavoie",
+        "nameE": "Elections Canada",
+        "cityE": "Beauval",
+        "addressE": "Lavoie Street",
+        "prov": "SK",
+        "pstl": "S0M0G0",
+        "lat": "55.14719238",
+        "lng": "-107.61280111",
+        "sitetype": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.61280111,
+          55.14719238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_fetched_at": "Wed, 02 Apr 2025 15:42:50 GMT",
+        "nameF": "Élections Canada",
+        "cityF": "Lanigan",
+        "addressF": "110, rue Main",
+        "nameE": "Elections Canada",
+        "cityE": "Lanigan",
+        "addressE": "110 Main Street",
+        "prov": "SK",
+        "pstl": "S0K2M0",
+        "lat": "51.85115901",
+        "lng": "-105.03136742",
+        "sitetype": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.03136742,
+          51.85115901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_fetched_at": "Wed, 02 Apr 2025 15:42:50 GMT",
+        "nameF": "Place Kenaston",
+        "cityF": "Kenaston",
+        "addressF": "704 4th Street",
+        "nameE": "Kenaston Place",
+        "cityE": "Kenaston",
+        "addressE": "704 4th Street",
+        "prov": "SK",
+        "pstl": "S0G2N0",
+        "lat": "51.499674",
+        "lng": "-106.27258403",
+        "sitetype": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.27258403,
+          51.499674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_fetched_at": "Wed, 02 Apr 2025 15:42:50 GMT",
+        "nameF": "Centre Commercial Town and Country",
+        "cityF": "Moose Jaw",
+        "addressF": "1235, rue Main Nord, bureau 128",
+        "nameE": "Town N Country Mall",
+        "cityE": "Moose Jaw",
+        "addressE": "1235 Main Street North, Suite 128",
+        "prov": "SK",
+        "pstl": "S6H6M4",
+        "lat": "50.40446138",
+        "lng": "-105.52986309",
+        "sitetype": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.52986309,
+          50.40446138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_fetched_at": "Wed, 02 Apr 2025 15:42:50 GMT",
+        "nameF": "Élections Canada",
+        "cityF": "Prince Albert",
+        "addressF": "3601 4th Avenue East",
+        "nameE": "Elections Canada",
+        "cityE": "Prince Albert",
+        "addressE": "3601 4th Avenue East",
+        "prov": "SK",
+        "pstl": "S6W1A3",
+        "lat": "53.17981291",
+        "lng": "-105.74398283",
+        "sitetype": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.74398283,
+          53.17981291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_fetched_at": "Wed, 02 Apr 2025 15:42:50 GMT",
+        "nameF": "Élections Canada",
+        "cityF": "Regina",
+        "addressF": "145, rue Dorothy",
+        "nameE": "Dieppe School",
+        "cityE": "Regina",
+        "addressE": "145 Dorothy Street",
+        "prov": "SK",
+        "pstl": "S4T5V7",
+        "lat": "50.45861451",
+        "lng": "-104.6800138",
+        "sitetype": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.6800138,
+          50.45861451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_fetched_at": "Wed, 02 Apr 2025 15:42:50 GMT",
+        "nameF": "Élections Canada",
+        "cityF": "Fort Qu-Appelle",
+        "addressF": "194, avenue Bay",
+        "nameE": "St Andrew's United Church",
+        "cityE": "Fort Qu-Appelle",
+        "addressE": "194 Bay Avenue",
+        "prov": "SK",
+        "pstl": "S0G1S0",
+        "lat": "50.76815782",
+        "lng": "-103.79780776",
+        "sitetype": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.79780776,
+          50.76815782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_fetched_at": "Wed, 02 Apr 2025 15:42:50 GMT",
+        "nameF": "Élections Canada",
+        "cityF": "Regina",
+        "addressF": "221, rue Winnipeg Nord",
+        "nameE": "Elections Canada",
+        "cityE": "Regina",
+        "addressE": "221 Winnipeg Street North",
+        "prov": "SK",
+        "pstl": "S4R8T6",
+        "lat": "50.47921129",
+        "lng": "-104.59509199",
+        "sitetype": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.59509199,
+          50.47921129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_fetched_at": "Wed, 02 Apr 2025 15:42:50 GMT",
+        "nameF": "Elections Canada",
+        "cityF": "Regina",
+        "addressF": "3705, rue Quance Est",
+        "nameE": "Elections Canada",
+        "cityE": "Regina",
+        "addressE": "3705 Quance Street East",
+        "prov": "SK",
+        "pstl": "S4V3A4",
+        "lat": "50.44352008",
+        "lng": "-104.52984836",
+        "sitetype": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.52984836,
+          50.44352008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_fetched_at": "Wed, 02 Apr 2025 15:42:50 GMT",
+        "nameF": "Élections Canada",
+        "cityF": "Saskatoon",
+        "addressF": "3035, avenue Preston Sud, bureau 35",
+        "nameE": "Circle Drive Alliance Church",
+        "cityE": "Saskatoon",
+        "addressE": "3035 Preston Avenue South, Suite 35",
+        "prov": "SK",
+        "pstl": "S7T1C2",
+        "lat": "52.08776899",
+        "lng": "-106.62013403",
+        "sitetype": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.62013403,
+          52.08776899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_fetched_at": "Wed, 02 Apr 2025 15:42:50 GMT",
+        "nameF": "Élections Canada",
+        "cityF": "Saskatoon",
+        "addressF": "3301 8th  Street East, bureau 202",
+        "nameE": "Elections Canada",
+        "cityE": "Saskatoon",
+        "addressE": "3301 8th  Street East, Suite 202",
+        "prov": "SK",
+        "pstl": "S7H5K5",
+        "lat": "52.11481651",
+        "lng": "-106.60173157",
+        "sitetype": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.60173157,
+          52.11481651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_fetched_at": "Wed, 02 Apr 2025 15:42:50 GMT",
+        "nameF": "Élections Canada",
+        "cityF": "Saskatoon",
+        "addressF": "323B Robin Way",
+        "nameE": "Elections Canada",
+        "cityE": "Saskatoon",
+        "addressE": "323B Robin Way",
+        "prov": "SK",
+        "pstl": "S7L6N1",
+        "lat": "52.15818624",
+        "lng": "-106.68126677",
+        "sitetype": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.68126677,
+          52.15818624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_fetched_at": "Wed, 02 Apr 2025 15:42:50 GMT",
+        "nameF": "Élections Canada",
+        "cityF": "Estevan",
+        "addressF": "1175 Nicholson Road, bureau 110",
+        "nameE": "Elections Canada",
+        "cityE": "Estevan",
+        "addressE": "1175 Nicholson Road, Suite 110",
+        "prov": "SK",
+        "pstl": "S4A2S7",
+        "lat": "49.15115161",
+        "lng": "-103.01177174",
+        "sitetype": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.01177174,
+          49.15115161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_fetched_at": "Wed, 02 Apr 2025 15:42:50 GMT",
+        "nameF": "Élections Canada",
+        "cityF": "Assiniboia",
+        "addressF": "201 3rd Avenue West",
+        "nameE": "Elections Canada",
+        "cityE": "Assiniboia",
+        "addressE": "201 3rd Avenue West",
+        "prov": "SK",
+        "pstl": "S0H0B0",
+        "lat": "49.63202998",
+        "lng": "-105.99466301",
+        "sitetype": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.99466301,
+          49.63202998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_fetched_at": "Wed, 02 Apr 2025 15:42:50 GMT",
+        "nameF": "Élections Canada",
+        "cityF": "Weyburn",
+        "addressF": "1783, avenue East",
+        "nameE": "Elections Canada (Former Sask Power Office Building)",
+        "cityE": "Weyburn",
+        "addressE": "1783 East Avenue",
+        "prov": "SK",
+        "pstl": "S4H2Y7",
+        "lat": "49.65927339",
+        "lng": "-103.83056424",
+        "sitetype": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.83056424,
+          49.65927339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_fetched_at": "Wed, 02 Apr 2025 15:42:50 GMT",
+        "nameF": "Élections Canada",
+        "cityF": "Whitewood",
+        "addressF": "1210, rue South Railway",
+        "nameE": "Elections Canada",
+        "cityE": "Whitewood",
+        "addressE": "1210 South Railway  Street",
+        "prov": "SK",
+        "pstl": "S0G5C0",
+        "lat": "50.48423007",
+        "lng": "-104.42694833",
+        "sitetype": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.42694833,
+          50.48423007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_fetched_at": "Wed, 02 Apr 2025 15:42:50 GMT",
+        "nameF": "Élections Canada",
+        "cityF": "Swift Current",
+        "addressF": "360, rue Chaplin  Ouest",
+        "nameE": "Elections Canada",
+        "cityE": "Swift Current",
+        "addressE": "360 Chaplin  Street West",
+        "prov": "SK",
+        "pstl": "S9H0E9",
+        "lat": "50.28477929",
+        "lng": "-107.80507338",
+        "sitetype": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.80507338,
+          50.28477929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_fetched_at": "Wed, 02 Apr 2025 15:42:50 GMT",
+        "nameF": "Élections Canada",
+        "cityF": "Rosetown",
+        "addressF": "1003, rue Main",
+        "nameE": "Rosetown and District Civic Centre",
+        "cityE": "Rosetown",
+        "addressE": "1003 Main Street",
+        "prov": "SK",
+        "pstl": "S0L2V0",
+        "lat": "51.55910629",
+        "lng": "-107.99460629",
+        "sitetype": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.99460629,
+          51.55910629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_fetched_at": "Wed, 02 Apr 2025 15:42:50 GMT",
+        "nameF": "Élections Canada",
+        "cityF": "Yorkton",
+        "addressF": "214, rue Smith Est",
+        "nameE": "Elections Canada",
+        "cityE": "Yorkton",
+        "addressE": "214 Smith Street East",
+        "prov": "SK",
+        "pstl": "S3N3S6",
+        "lat": "51.2118612",
+        "lng": "-102.44907882",
+        "sitetype": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.44907882,
+          51.2118612
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "location_fetched_at": "Wed, 02 Apr 2025 15:42:50 GMT",
+        "nameF": "L'Édifice Kelvor",
+        "cityF": "Montague",
+        "addressF": "6499 Commercial Road",
+        "nameE": "The Kelvor Building",
+        "cityE": "Montague",
+        "addressE": "6499 Commercial Road",
+        "prov": "PE",
+        "pstl": "C0A1R0",
+        "lat": "46.13802761",
+        "lng": "-62.63777769",
+        "sitetype": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.63777769,
+          46.13802761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_fetched_at": "Wed, 02 Apr 2025 15:42:50 GMT",
+        "nameF": "Élections Canada",
+        "cityF": "Charlottetown",
+        "addressF": "134, rue Kent, bureau 240HR",
+        "nameE": "Confederation Court Mall",
+        "cityE": "Charlottetown",
+        "addressE": "134 Kent Street, Suite 240HR",
+        "prov": "PE",
+        "pstl": "C1A8R8",
+        "lat": "46.23505791",
+        "lng": "-63.12737639",
+        "sitetype": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.12737639,
+          46.23505791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_fetched_at": "Wed, 02 Apr 2025 15:42:50 GMT",
+        "nameF": "Élections Canada",
+        "cityF": "Summerside",
+        "addressF": "475, rue Granville, bureau 160",
+        "nameE": "County Fair Mall",
+        "cityE": "Summerside",
+        "addressE": "475 Granville Street, Suite 160",
+        "prov": "PE",
+        "pstl": "C1N4P7",
+        "lat": "46.41320461",
+        "lng": "-63.78144463",
+        "sitetype": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.78144463,
+          46.41320461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_fetched_at": "Wed, 02 Apr 2025 15:42:50 GMT",
+        "nameF": "Élections Canada",
+        "cityF": "Kinkora",
+        "addressF": "1910 Nodd Road",
+        "nameE": "Emerald Community Centre",
+        "cityE": "Kinkora",
+        "addressE": "1910 Nodd Road",
+        "prov": "PE",
+        "pstl": "C0B1N0",
+        "lat": "46.3614003",
+        "lng": "-63.54924621",
+        "sitetype": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.54924621,
+          46.3614003
+        ]
+      }
+    }
+  ]
+}
