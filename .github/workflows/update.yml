@@ -3,9 +3,6 @@ name: Update and Commit Changes
 on:
   schedule:
     - cron: "0 6 * * *" # 1AM ET (6AM UTC)
-  push:
-    branches:
-      - test-action
 
 jobs:
   update-and-commit:
