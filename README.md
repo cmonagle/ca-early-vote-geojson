@@ -1,4 +1,4 @@
-# Bureaux de'Élections Canada / Election Canada Offices
+# Bureaux d'Élections Canada / Election Canada Offices
 
 This repo contains a script (`index.ts`) that runs every night (around 1am) on a GitHub action. It fetches early vote locations from [Elections Canada](https://elections.ca) and converts the office locations to the GeoJSON format.
 
