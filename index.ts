@@ -72,7 +72,8 @@ async function main() {
   const allLocationsPath = path.join(OUT_DIRECTORY, "canada.geojson");
   writeFileSync(
     allLocationsPath,
-    JSON.stringify(canadaLocationsGeoJson, null, 2)
+    JSON.stringify(canadaLocationsGeoJson, null, 2),
+    {'encoding': "utf-8"}
   );
 
   const locationsByProvince = allFeatures.reduce<
@@ -96,7 +97,8 @@ async function main() {
     );
     writeFileSync(
       provinceLocationsPath,
-      JSON.stringify(provinceLocationsGeoJson, null, 2)
+      JSON.stringify(provinceLocationsGeoJson, null, 2),
+      {'encoding': "utf-8"}
     );
   }
   console.log(`All locations saved to ${allLocationsPath}`);
