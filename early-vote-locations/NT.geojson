@@ -4,24 +4,24 @@
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Yellowknife",
-        "addressF": "5019 52nd Street, bureau 201",
+        "addressF": "5019 52 Street",
         "nameE": "Nova Plaza",
         "cityE": "Yellowknife",
-        "addressE": "5019 52nd Street, Suite 201",
+        "addressE": "5019 52 Street",
         "prov": "NT",
         "pstl": "X1A1T5",
-        "lat": "62.4520638",
-        "lng": "-114.37169923",
+        "lat": "62.45225026",
+        "lng": "-114.37265044",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -114.37169923,
-          62.4520638
+          -114.37265044,
+          62.45225026
         ]
       }
     }

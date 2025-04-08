@@ -4,72 +4,72 @@
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
-        "nameF": "Ancien édifice de sensibilisation de Dawson City",
-        "cityF": "Dawson City",
-        "addressF": "853, avenue Third",
-        "nameE": "Elections Canada (Former Dawson City Outreach Building)",
-        "cityE": "Dawson City",
-        "addressE": "853 Third Avenue",
-        "prov": "YT",
-        "pstl": "Y0B1G0",
-        "lat": "64.06012091",
-        "lng": "-139.43563139",
-        "sitetype": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -139.43563139,
-          64.06012091
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
-        "nameF": "Élections Canada",
-        "cityF": "Watson Lake",
-        "addressF": "910, avenue Lakeview",
-        "nameE": "Watson Lake Recreational Centre",
-        "cityE": "Watson Lake",
-        "addressE": "910 Lakeview Avenue",
-        "prov": "YT",
-        "pstl": "Y0A1C0",
-        "lat": "60.06486159",
-        "lng": "-128.71180672",
-        "sitetype": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -128.71180672,
-          60.06486159
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Whitehorse",
-        "addressF": "401, rue Hawkins",
+        "addressF": "401 Hawkins Street",
         "nameE": "Whitehorse Elks Lodge #306",
         "cityE": "Whitehorse",
         "addressE": "401 Hawkins Street",
         "prov": "YT",
         "pstl": "Y1A1X7",
-        "lat": "60.71558798",
-        "lng": "-135.05425696",
+        "lat": "60.71561897",
+        "lng": "-135.05424593",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -135.05425696,
-          60.71558798
+          -135.05424593,
+          60.71561897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
+        "nameF": "Élections Canada",
+        "cityF": "Watson Lake",
+        "addressF": "910 Lakeview Avenue",
+        "nameE": "Watson Lake Recreational Centre",
+        "cityE": "Watson Lake",
+        "addressE": "910 Lakeview Avenue",
+        "prov": "YT",
+        "pstl": "Y0A1C0",
+        "lat": "60.06461578",
+        "lng": "-128.71548185",
+        "sitetype": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -128.71548185,
+          60.06461578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
+        "nameF": "Ancien édifice de sensibilisation de Dawson City",
+        "cityF": "Dawson City",
+        "addressF": "853 Third Avenue",
+        "nameE": "Elections Canada (Former Dawson City Outreach Building)",
+        "cityE": "Dawson City",
+        "addressE": "853 Third Avenue",
+        "prov": "YT",
+        "pstl": "Y0B1G0",
+        "lat": "64.06009858",
+        "lng": "-139.43547502",
+        "sitetype": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -139.43547502,
+          64.06009858
         ]
       }
     }

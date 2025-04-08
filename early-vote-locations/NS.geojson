@@ -4,295 +4,295 @@
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
+        "nameF": "Salle paroissiale du Sacré Coeur",
+        "cityF": "Clare",
+        "addressF": "9636 Highway 1",
+        "nameE": "Sacred Heart Parish Hall",
+        "cityE": "Clare",
+        "addressE": "9636 Highway 1",
+        "prov": "NS",
+        "pstl": "B0W2Z0",
+        "lat": "44.2425458",
+        "lng": "-66.13115447",
+        "sitetype": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.13115447,
+          44.2425458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
-        "cityF": "Bridgetown",
-        "addressF": "21, rue Queen",
+        "cityF": "Annapolis, Subd. B",
+        "addressF": "21 Queen Street",
         "nameE": "Elections Canada",
-        "cityE": "Bridgetown",
+        "cityE": "Annapolis, Subd. B",
         "addressE": "21 Queen Street",
         "prov": "NS",
         "pstl": "B0S1C0",
-        "lat": "44.84074902",
-        "lng": "-65.291419",
+        "lat": "44.84070055",
+        "lng": "-65.29125539",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -65.291419,
-          44.84074902
+          -65.29125539,
+          44.84070055
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
-        "nameF": "Salle paroissiale du Sacré Coeur",
-        "cityF": "Saulnierville",
-        "addressF": "9636  Route 1",
-        "nameE": "Sacred Heart Parish Hall",
-        "cityE": "Saulnierville",
-        "addressE": "9636  Route 1",
-        "prov": "NS",
-        "pstl": "B0W2Z0",
-        "lat": "44.242539",
-        "lng": "-66.131121",
-        "sitetype": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -66.131121,
-          44.242539
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Baddeck",
-        "addressF": "37, rue Ross",
+        "addressF": "37 Ross Street",
         "nameE": "Elections Canada",
         "cityE": "Baddeck",
         "addressE": "37 Ross Street",
         "prov": "NS",
         "pstl": "B0E1B0",
-        "lat": "46.09663702",
-        "lng": "-60.753867",
+        "lat": "46.09674879",
+        "lng": "-60.75479308",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -60.753867,
-          46.09663702
+          -60.75479308,
+          46.09674879
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
+        "nameF": "Centre Ville - Entree Nord",
+        "cityF": "Port Hawkesbury",
+        "addressF": "811 Reeves Street",
+        "nameE": "Town Centre - North Entrance",
+        "cityE": "Port Hawkesbury",
+        "addressE": "811 Reeves Street",
+        "prov": "NS",
+        "pstl": "B9A2S4",
+        "lat": "45.61355528",
+        "lng": "-61.34811844",
+        "sitetype": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.34811844,
+          45.61355528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Batiment de la marina",
         "cityF": "Guysborough",
-        "addressF": "74, rue Main",
+        "addressF": "74 Main Street",
         "nameE": "Marina Building",
         "cityE": "Guysborough",
         "addressE": "74 Main Street",
         "prov": "NS",
         "pstl": "B0H1N0",
-        "lat": "45.391826",
-        "lng": "-61.49716001",
+        "lat": "45.39153483",
+        "lng": "-61.49790953",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -61.49716001,
-          45.391826
+          -61.49790953,
+          45.39153483
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
-        "nameF": "Centre Ville - Entree Nord",
-        "cityF": "Port Hawkesbury",
-        "addressF": "811, rue Reeves, bureau 222",
-        "nameE": "Town Centre - North Entrance",
-        "cityE": "Port Hawkesbury",
-        "addressE": "811 Reeves Street, Suite 222",
-        "prov": "NS",
-        "pstl": "B9A2S4",
-        "lat": "45.61341598",
-        "lng": "-61.34939401",
-        "sitetype": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -61.34939401,
-          45.61341598
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
-        "cityF": "Sheet Harbour",
-        "addressF": "42 Sprott  Lane",
-        "nameE": "Eureka Lodge",
-        "cityE": "Sheet Harbour",
-        "addressE": "42 Sprott  Lane",
+        "cityF": "Halifax",
+        "addressF": "42 Sprott Lane",
+        "nameE": "Masonic Hall",
+        "cityE": "Halifax",
+        "addressE": "42 Sprott Lane",
         "prov": "NS",
         "pstl": "B0J3B0",
-        "lat": "44.92045061",
-        "lng": "-62.52055921",
+        "lat": "44.91998067",
+        "lng": "-62.5202241",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -62.52055921,
-          44.92045061
+          -62.5202241,
+          44.91998067
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
-        "nameF": "Élections Canada",
-        "cityF": "Head of Jeddore",
-        "addressF": "9042 Hwy 7, bureau 3",
-        "nameE": "Keith Leahy Building",
-        "cityE": "Head of Jeddore",
-        "addressE": "9042 Hwy 7, Suite 3",
-        "prov": "NS",
-        "pstl": "B0J1P0",
-        "lat": "44.77800381",
-        "lng": "-63.08808899",
-        "sitetype": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.08808899,
-          44.77800381
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada (ancien bâtiment de la Coopérative)",
-        "cityF": "New  Glasgow",
-        "addressF": "451 Merigomish Road, bureau 3",
+        "cityF": "New Glasgow",
+        "addressF": "451 Merigomish Road",
         "nameE": "Elections Canada (former Co-op Building)",
-        "cityE": "New  Glasgow",
-        "addressE": "451 Merigomish Road, Suite 3",
+        "cityE": "New Glasgow",
+        "addressE": "451 Merigomish Road",
         "prov": "NS",
         "pstl": "B2H4T2",
-        "lat": "45.58273801",
-        "lng": "-62.63569504",
+        "lat": "45.58249828",
+        "lng": "-62.63717188",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -62.63569504,
-          45.58273801
+          -62.63717188,
+          45.58249828
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
+        "nameF": "Élections Canada",
+        "cityF": "Halifax",
+        "addressF": "9042 Highway 7",
+        "nameE": "Keith Leahy Building",
+        "cityE": "Halifax",
+        "addressE": "9042 Highway 7",
+        "prov": "NS",
+        "pstl": "B0J1P0",
+        "lat": "44.77817958",
+        "lng": "-63.08915319",
+        "sitetype": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.08915319,
+          44.77817958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
+        "nameF": "Élections Canada",
+        "cityF": "Amherst",
+        "addressF": "142 Albion Street South",
+        "nameE": "Amherst Centre",
+        "cityE": "Amherst",
+        "addressE": "142 Albion Street South",
+        "prov": "NS",
+        "pstl": "B4H4H4",
+        "lat": "45.81257246",
+        "lng": "-64.20002443",
+        "sitetype": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.20002443,
+          45.81257246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Truro",
-        "addressF": "435, rue Willow",
-        "nameE": "Assante Realty Inc",
+        "addressF": "435 Willow Street",
+        "nameE": "Elections Canada",
         "cityE": "Truro",
         "addressE": "435 Willow Street",
         "prov": "NS",
         "pstl": "B2N6T2",
-        "lat": "45.34869901",
-        "lng": "-63.29215698",
+        "lat": "45.3491055",
+        "lng": "-63.29206356",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -63.29215698,
-          45.34869901
+          -63.29206356,
+          45.3491055
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
-        "nameF": "Élections Canada",
-        "cityF": "Amherst",
-        "addressF": "142, rue South Albion, bureau 0170",
-        "nameE": "Amherst Centre",
-        "cityE": "Amherst",
-        "addressE": "142 South Albion Street, Suite 0170",
-        "prov": "NS",
-        "pstl": "B4H4H4",
-        "lat": "45.81236699",
-        "lng": "-64.20001298",
-        "sitetype": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -64.20001298,
-          45.81236699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
-        "nameF": "Élections Canada",
-        "cityF": "Dartmouth",
-        "addressF": "21, boulevard Micmac, bureau 291",
-        "nameE": "Mic Mac Mall",
-        "cityE": "Dartmouth",
-        "addressE": "21 Micmac Boulevard, Suite 291",
-        "prov": "NS",
-        "pstl": "B3A4N3",
-        "lat": "44.68655108",
-        "lng": "-63.55952704",
-        "sitetype": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.55952704,
-          44.68655108
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Halifax",
-        "addressF": "6206 Quinpool Road, bureau 101",
-        "nameE": "Elections Canada",
+        "addressF": "21 Micmac Boulevard",
+        "nameE": "Mic Mac Mall",
         "cityE": "Halifax",
-        "addressE": "6206 Quinpool Road, Suite 101",
+        "addressE": "21 Micmac Boulevard",
         "prov": "NS",
-        "pstl": "B3L1A3",
-        "lat": "44.64567162",
-        "lng": "-63.59583384",
+        "pstl": "B3A4K7",
+        "lat": "44.68663375",
+        "lng": "-63.55957793",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -63.59583384,
-          44.64567162
+          -63.55957793,
+          44.68663375
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
+        "nameF": "Élections Canada",
+        "cityF": "Halifax",
+        "addressF": "6206 Quinpool Road",
+        "nameE": "Elections Canada",
+        "cityE": "Halifax",
+        "addressE": "6206 Quinpool Road",
+        "prov": "NS",
+        "pstl": "B3L1A3",
+        "lat": "44.64568744",
+        "lng": "-63.5958584",
+        "sitetype": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.5958584,
+          44.64568744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Hotel Comfort / Tour Halifax",
         "cityF": "Halifax",
         "addressF": "88 Chain Lake Drive",
@@ -301,207 +301,207 @@
         "addressE": "88 Chain Lake Drive",
         "prov": "NS",
         "pstl": "B3S1A2",
-        "lat": "44.63708482",
-        "lng": "-63.66801166",
+        "lat": "44.63758038",
+        "lng": "-63.66859006",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -63.66801166,
-          44.63708482
+          -63.66859006,
+          44.63758038
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
-        "cityF": "Shubenacadie",
+        "cityF": "West Hants",
+        "addressF": "194 King Street",
+        "nameE": "Lindsay Windsor Funeral Home",
+        "cityE": "West Hants",
+        "addressE": "194 King Street",
+        "prov": "NS",
+        "pstl": "B0N2T0",
+        "lat": "44.99436139",
+        "lng": "-64.13508645",
+        "sitetype": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.13508645,
+          44.99436139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
+        "nameF": "Élections Canada",
+        "cityF": "East Hants",
         "addressF": "42 Mill Village Road",
         "nameE": "Shubenacadie Royal Canadian Legion",
-        "cityE": "Shubenacadie",
+        "cityE": "East Hants",
         "addressE": "42 Mill Village Road",
         "prov": "NS",
         "pstl": "B0N2H0",
-        "lat": "45.08678101",
-        "lng": "-63.41257501",
+        "lat": "45.08719862",
+        "lng": "-63.41241875",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -63.41257501,
-          45.08678101
+          -63.41241875,
+          45.08719862
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Édifice Canada Post",
         "cityF": "Kentville",
-        "addressF": "495, rue Main",
+        "addressF": "495 Main Street",
         "nameE": "Canada Post Building",
         "cityE": "Kentville",
         "addressE": "495 Main Street",
         "prov": "NS",
-        "pstl": "B4N0A0",
-        "lat": "45.07787498",
-        "lng": "-64.50008797",
+        "pstl": "B4N3W5",
+        "lat": "45.07765919",
+        "lng": "-64.50062277",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -64.50008797,
-          45.07787498
+          -64.50062277,
+          45.07765919
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
-        "nameF": "Élections Canada",
-        "cityF": "Windsor",
-        "addressF": "194, rue King",
-        "nameE": "Lindsay Windsor Funeral Home",
-        "cityE": "Windsor",
-        "addressE": "194 King Street",
-        "prov": "NS",
-        "pstl": "B0N2T0",
-        "lat": "44.99412598",
-        "lng": "-64.13526999",
-        "sitetype": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -64.13526999,
-          44.99412598
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Lower Sackville",
-        "addressF": "11, avenue Glendale, bureau 5",
+        "addressF": "11 Glendale Avenue",
         "nameE": "Elections Canada",
         "cityE": "Lower Sackville",
-        "addressE": "11 Glendale Avenue, Suite 5",
+        "addressE": "11 Glendale Avenue",
         "prov": "NS",
         "pstl": "B4C3P2",
-        "lat": "44.75893129",
-        "lng": "-63.65928032",
+        "lat": "44.75949174",
+        "lng": "-63.66001591",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -63.65928032,
-          44.75893129
+          -63.66001591,
+          44.75949174
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
+        "nameF": "Élections Canada",
+        "cityF": "Bridgewater",
+        "addressF": "197 Dufferin Street",
+        "nameE": "Dawson Centre",
+        "cityE": "Bridgewater",
+        "addressE": "197 Dufferin Street",
+        "prov": "NS",
+        "pstl": "B4V2G9",
+        "lat": "44.37062834",
+        "lng": "-64.52225871",
+        "sitetype": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.52225871,
+          44.37062834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Shelburne",
-        "addressF": "32, rue King",
+        "addressF": "32 King Street",
         "nameE": "Elections Canada",
         "cityE": "Shelburne",
         "addressE": "32 King Street",
         "prov": "NS",
         "pstl": "B0T1W0",
-        "lat": "43.764063",
-        "lng": "-65.32189301",
+        "lat": "43.76377029",
+        "lng": "-65.32194321",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -65.32189301,
-          43.764063
+          -65.32194321,
+          43.76377029
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
-        "cityF": "Bridgewater",
-        "addressF": "197, rue Dufferin, bureau 101",
-        "nameE": "Dawson Centre",
-        "cityE": "Bridgewater",
-        "addressE": "197 Dufferin Street, Suite 101",
-        "prov": "NS",
-        "pstl": "B4V2G9",
-        "lat": "44.37059201",
-        "lng": "-64.52148202",
-        "sitetype": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -64.52148202,
-          44.37059201
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
-        "nameF": "Élections Canada",
-        "cityF": "Hubbards",
-        "addressF": "9977 St Margarets Bay Road, bureau 209",
+        "cityF": "Halifax",
+        "addressF": "9977 St Margarets Bay Road",
         "nameE": "Elections Canada",
-        "cityE": "Hubbards",
-        "addressE": "9977 St Margarets Bay Road, Suite 209",
+        "cityE": "Halifax",
+        "addressE": "9977 St Margarets Bay Road",
         "prov": "NS",
         "pstl": "B0J1T0",
-        "lat": "44.64409519",
-        "lng": "-64.04322798",
+        "lat": "44.64389803",
+        "lng": "-64.04368248",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -64.04322798,
-          44.64409519
+          -64.04368248,
+          44.64389803
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Sydney",
-        "addressF": "51, rue West",
-        "nameE": "UKRAINIAN HALL",
+        "addressF": "51 West  Street",
+        "nameE": "Ukrainian Hall",
         "cityE": "Sydney",
         "addressE": "51 West  Street",
         "prov": "NS",
         "pstl": "B1N1R9",
-        "lat": "46.15814192",
-        "lng": "-60.18109652",
+        "lat": "46.15819917",
+        "lng": "-60.18079973",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -60.18109652,
-          46.15814192
+          -60.18079973,
+          46.15819917
         ]
       }
     }

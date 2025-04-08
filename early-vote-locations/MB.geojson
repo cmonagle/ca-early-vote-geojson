@@ -4,176 +4,176 @@
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Brandon",
-        "addressF": "1039, avenue Princess",
+        "addressF": "1039 Princess Avenue",
         "nameE": "Elections Canada",
         "cityE": "Brandon",
         "addressE": "1039 Princess Avenue",
         "prov": "MB",
         "pstl": "R7A4J5",
-        "lat": "49.8472514",
-        "lng": "-99.9523801",
+        "lat": "49.84693596",
+        "lng": "-99.95267014",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -99.9523801,
-          49.8472514
+          -99.95267014,
+          49.84693596
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
-        "cityF": "Thompson",
-        "addressF": "340 Juniper  Drive",
+        "cityF": "Flin Flon (Part)",
+        "addressF": "125 Main Street",
         "nameE": "Elections Canada",
-        "cityE": "Thompson",
-        "addressE": "340 Juniper  Drive",
-        "prov": "MB",
-        "pstl": "R8N2B1",
-        "lat": "55.74074991",
-        "lng": "-97.8607723",
-        "sitetype": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.8607723,
-          55.74074991
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
-        "nameF": "Élections Canada",
-        "cityF": "Flin Flon",
-        "addressF": "125, rue Main",
-        "nameE": "Elections Canada",
-        "cityE": "Flin Flon",
-        "addressE": "125 Main  Street",
+        "cityE": "Flin Flon (Part)",
+        "addressE": "125 Main Street",
         "prov": "MB",
         "pstl": "R8A1J9",
-        "lat": "54.76767348",
-        "lng": "-101.87684629",
+        "lat": "54.76768026",
+        "lng": "-101.87696363",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -101.87684629,
-          54.76767348
+          -101.87696363,
+          54.76768026
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
-        "cityF": "Opaskwayak",
-        "addressF": "2 Highway 10  North",
+        "cityF": "Thompson",
+        "addressF": "340 Juniper Drive",
+        "nameE": "Elections Canada ",
+        "cityE": "Thompson",
+        "addressE": "340 Juniper Drive",
+        "prov": "MB",
+        "pstl": "R8N2B1",
+        "lat": "55.74047783",
+        "lng": "-97.86121453",
+        "sitetype": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.86121453,
+          55.74047783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
+        "nameF": "Élections Canada",
+        "cityF": "Opaskwayak Cree Nation 21E",
+        "addressF": "2 Highway 10",
         "nameE": "Kikiwak Inn",
-        "cityE": "Opaskwayak",
-        "addressE": "2 Highway 10  North",
+        "cityE": "Opaskwayak Cree Nation 21E",
+        "addressE": "2 Highway 10",
         "prov": "MB",
         "pstl": "R0B2J0",
-        "lat": "53.83587155",
-        "lng": "-101.26467531",
+        "lat": "53.83591887",
+        "lng": "-101.26477682",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -101.26467531,
-          53.83587155
+          -101.26477682,
+          53.83591887
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Winnipeg",
-        "addressF": "766, avenue Pandora Est",
+        "addressF": "766 Pandora Avenue East",
         "nameE": "Elections Canada",
         "cityE": "Winnipeg",
         "addressE": "766 Pandora Avenue East",
         "prov": "MB",
         "pstl": "R2C3A6",
-        "lat": "49.89203729",
-        "lng": "-96.9801289",
+        "lat": "49.89221264",
+        "lng": "-96.98062125",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -96.9801289,
-          49.89203729
+          -96.98062125,
+          49.89221264
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
-        "nameF": "Élections Canada",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
+        "nameF": "Garden City Shopping Centre",
         "cityF": "Winnipeg",
-        "addressF": "2305, rue McPhillips, bureau 327",
+        "addressF": "2305 McPhillips Street",
         "nameE": "Garden City Shopping Centre",
         "cityE": "Winnipeg",
-        "addressE": "2305 McPhillips Street, Suite 327",
+        "addressE": "2305 McPhillips Street",
         "prov": "MB",
         "pstl": "R2V3E1",
-        "lat": "49.95058451",
-        "lng": "-97.14452392",
+        "lat": "49.95134535",
+        "lng": "-97.14924326",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.14452392,
-          49.95058451
+          -97.14924326,
+          49.95134535
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
-        "nameF": "Elections Canada",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
+        "nameF": "Élections Canada",
         "cityF": "Morden",
-        "addressF": "282 Loren Drive, bureau 2",
+        "addressF": "282 Loren Drive",
         "nameE": "Elections Canada",
         "cityE": "Morden",
-        "addressE": "282 Loren Drive, Suite 2",
+        "addressE": "282 Loren Drive",
         "prov": "MB",
         "pstl": "R6M0G2",
-        "lat": "49.19355712",
-        "lng": "-98.07801841",
+        "lat": "49.19351794",
+        "lng": "-98.07696179",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -98.07801841,
-          49.19355712
+          -98.07696179,
+          49.19351794
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
-        "nameF": "Élections Canada",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
+        "nameF": "Élections Canada (Ancienne église Springs)",
         "cityF": "Steinbach",
         "addressF": "179 Chapel Drive",
         "nameE": "Elections Canada (Former Springs Church)",
@@ -181,142 +181,166 @@
         "addressE": "179 Chapel Drive",
         "prov": "MB",
         "pstl": "R5G2E6",
-        "lat": "49.5143805",
-        "lng": "-96.68883044",
+        "lat": "49.51532122",
+        "lng": "-96.68943146",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -96.68883044,
-          49.5143805
+          -96.68943146,
+          49.51532122
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Édifice DQ",
         "cityF": "Swan River",
-        "addressF": "610, rue Main Est",
+        "addressF": "610 Main Street East",
         "nameE": "DQ Building",
         "cityE": "Swan River",
         "addressE": "610 Main Street East",
         "prov": "MB",
         "pstl": "R0L1Z0",
-        "lat": "52.10552039",
-        "lng": "-101.26849229",
+        "lat": "52.10543647",
+        "lng": "-101.26852503",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -101.26849229,
-          52.10552039
+          -101.26852503,
+          52.10543647
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Dauphin",
-        "addressF": "1550, rue Main Sud",
+        "addressF": "1550 Main Street South",
         "nameE": "Balchen Property Building",
         "cityE": "Dauphin",
         "addressE": "1550 Main Street South",
         "prov": "MB",
-        "pstl": "R7N3B3",
-        "lat": "51.13395731",
-        "lng": "-100.06179403",
+        "pstl": "R7N1M8",
+        "lat": "51.13388107",
+        "lng": "-100.06186057",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -100.06179403,
-          51.13395731
+          -100.06186057,
+          51.13388107
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
-        "cityF": "Minnedosa",
-        "addressF": "202 5th Street North-West",
-        "nameE": "Minnedosa Ukrainian Hall",
-        "cityE": "Minnedosa",
-        "addressE": "202 5th Street North-West",
-        "prov": "MB",
-        "pstl": "R0J1E0",
-        "lat": "50.25369638",
-        "lng": "-99.84568023",
-        "sitetype": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -99.84568023,
-          50.25369638
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
-        "nameF": "Élections Canada",
-        "cityF": "Russell",
-        "addressF": "107, rue Westbourne Est",
+        "cityF": "Russell-Binscarth",
+        "addressF": "107 Westbourne Street",
         "nameE": "Smellie Block - Russell, Mb",
-        "cityE": "Russell",
-        "addressE": "107 Westbourne Street East",
+        "cityE": "Russell-Binscarth",
+        "addressE": "107 Westbourne Street",
         "prov": "MB",
         "pstl": "R0J1W0",
-        "lat": "50.7813748",
-        "lng": "-101.28780063",
+        "lat": "50.78132486",
+        "lng": "-101.28781168",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -101.28780063,
-          50.7813748
+          -101.28781168,
+          50.78132486
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
+        "nameF": "Élections Canada",
+        "cityF": "Minnedosa",
+        "addressF": "202 5 Street North-West",
+        "nameE": "Minnedosa Ukrainian Hall",
+        "cityE": "Minnedosa",
+        "addressE": "202 5 Street North-West",
+        "prov": "MB",
+        "pstl": "R0J1E0",
+        "lat": "50.25319164",
+        "lng": "-99.84611591",
+        "sitetype": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.84611591,
+          50.25319164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Paroisse St. Famille",
         "cityF": "Winnipeg",
-        "addressF": "774, rue Archibald",
+        "addressF": "774 Archibald Street",
         "nameE": "Holy Family Catholic Church",
         "cityE": "Winnipeg",
         "addressE": "774 Archibald Street",
         "prov": "MB",
         "pstl": "R2J0Y4",
-        "lat": "49.8771554",
-        "lng": "-97.09629308",
+        "lat": "49.87717361",
+        "lng": "-97.09634567",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.09629308,
-          49.8771554
+          -97.09634567,
+          49.87717361
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
+        "nameF": "Salle luthérienne",
+        "cityF": "Selkirk",
+        "addressF": "332 Manitoba Avenue",
+        "nameE": "Lutheran Hall",
+        "cityE": "Selkirk",
+        "addressE": "332 Manitoba Avenue",
+        "prov": "MB",
+        "pstl": "R1A0Y7",
+        "lat": "50.14624673",
+        "lng": "-96.87512131",
+        "sitetype": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.87512131,
+          50.14624673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Centre de technologie et d'éducation Evergreen",
         "cityF": "Gimli",
         "addressF": "234 Tudor Lane",
@@ -325,118 +349,94 @@
         "addressE": "234 Tudor Lane",
         "prov": "MB",
         "pstl": "R0C1B0",
-        "lat": "50.63465883",
-        "lng": "-97.04017821",
+        "lat": "50.63523614",
+        "lng": "-97.04069668",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.04017821,
-          50.63465883
+          -97.04069668,
+          50.63523614
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
-        "nameF": "Salle luthérienne",
-        "cityF": "Selkirk",
-        "addressF": "332, avenue Manitoba",
-        "nameE": "Lutheran Hall",
-        "cityE": "Selkirk",
-        "addressE": "332 Manitoba  Avenue",
-        "prov": "MB",
-        "pstl": "R1A0Y7",
-        "lat": "50.1459541",
-        "lng": "-96.87522134",
-        "sitetype": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.87522134,
-          50.1459541
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Place du Portage",
         "cityF": "Winnipeg",
-        "addressF": "393, avenue Portage, bureau 311",
+        "addressF": "393 Portage Avenue",
         "nameE": "Portage Place",
         "cityE": "Winnipeg",
-        "addressE": "393 Portage Avenue, Suite 311",
+        "addressE": "393 Portage Avenue",
         "prov": "MB",
         "pstl": "R3B3H6",
-        "lat": "49.89239629",
-        "lng": "-97.14795841",
+        "lat": "49.89218078",
+        "lng": "-97.1477996",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.14795841,
-          49.89239629
+          -97.1477996,
+          49.89218078
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Winnipeg",
-        "addressF": "1700, avenue Church",
+        "addressF": "1700 Church Avenue",
         "nameE": "Winnipeg Sun Building",
         "cityE": "Winnipeg",
         "addressE": "1700 Church Avenue",
         "prov": "MB",
         "pstl": "R2X3A2",
-        "lat": "49.94062019",
-        "lng": "-97.19237202",
+        "lat": "49.9410462",
+        "lng": "-97.19329679",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.19237202,
-          49.94062019
+          -97.19329679,
+          49.9410462
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Winnipeg",
-        "addressF": "50, boulevard Scurfield",
-        "nameE": "The Redeemed Christian Church of God, Kings and Priests",
+        "addressF": "50 Scurfield Boulevard",
+        "nameE": "Elections Canada",
         "cityE": "Winnipeg",
         "addressE": "50 Scurfield Boulevard",
         "prov": "MB",
         "pstl": "R3Y1G4",
-        "lat": "49.81781311",
-        "lng": "-97.18615818",
+        "lat": "49.81791724",
+        "lng": "-97.18558966",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.18615818,
-          49.81781311
+          -97.18558966,
+          49.81791724
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Winnipeg",
         "addressF": "134 Plaza Drive",
@@ -445,39 +445,39 @@
         "addressE": "134 Plaza Drive",
         "prov": "MB",
         "pstl": "R3T5K9",
-        "lat": "49.82198939",
-        "lng": "-97.14674714",
+        "lat": "49.82210579",
+        "lng": "-97.14669448",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.14674714,
-          49.82198939
+          -97.14669448,
+          49.82210579
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Winnipeg",
-        "addressF": "6640, boulevard Roblin, bureau 200",
+        "addressF": "6640 Roblin Boulevard",
         "nameE": "Elections Canada",
         "cityE": "Winnipeg",
-        "addressE": "6640 Roblin Boulevard, Suite 200",
+        "addressE": "6640 Roblin Boulevard",
         "prov": "MB",
-        "pstl": "R3P2P9",
-        "lat": "49.86237801",
-        "lng": "-97.31495676",
+        "pstl": "R3R2P9",
+        "lat": "49.86346995",
+        "lng": "-97.3151418",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.31495676,
-          49.86237801
+          -97.3151418,
+          49.86346995
         ]
       }
     }

@@ -4,96 +4,96 @@
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "L'Édifice Kelvor",
-        "cityF": "Montague",
-        "addressF": "6499 Commercial Road",
+        "cityF": "Three Rivers",
+        "addressF": "6499 Commercial - RTE 4 Road",
         "nameE": "The Kelvor Building",
-        "cityE": "Montague",
-        "addressE": "6499 Commercial Road",
+        "cityE": "Three Rivers",
+        "addressE": "6499 Commercial - RTE 4 Road",
         "prov": "PE",
         "pstl": "C0A1R0",
-        "lat": "46.13802761",
-        "lng": "-62.63777769",
+        "lat": "46.13816754",
+        "lng": "-62.63720904",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -62.63777769,
-          46.13802761
+          -62.63720904,
+          46.13816754
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Charlottetown",
-        "addressF": "134, rue Kent, bureau 240HR",
+        "addressF": "123 Grafton Street",
         "nameE": "Confederation Court Mall",
         "cityE": "Charlottetown",
-        "addressE": "134 Kent Street, Suite 240HR",
+        "addressE": "123 Grafton Street",
         "prov": "PE",
-        "pstl": "C1A8R8",
-        "lat": "46.23505791",
-        "lng": "-63.12737639",
+        "pstl": "C1A1K9",
+        "lat": "46.23517684",
+        "lng": "-63.1273885",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -63.12737639,
-          46.23505791
+          -63.1273885,
+          46.23517684
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Summerside",
-        "addressF": "475, rue Granville, bureau 160",
+        "addressF": "475 Granville Street",
         "nameE": "County Fair Mall",
         "cityE": "Summerside",
-        "addressE": "475 Granville Street, Suite 160",
+        "addressE": "475 Granville Street",
         "prov": "PE",
         "pstl": "C1N4P7",
-        "lat": "46.41320461",
-        "lng": "-63.78144463",
+        "lat": "46.41188287",
+        "lng": "-63.782062",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -63.78144463,
-          46.41320461
+          -63.782062,
+          46.41188287
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
-        "cityF": "Kinkora",
-        "addressF": "1910 Nodd Road",
+        "cityF": "Kensington, Part 2",
+        "addressF": "1910 Nodd - RTE 113 Road",
         "nameE": "Emerald Community Centre",
-        "cityE": "Kinkora",
-        "addressE": "1910 Nodd Road",
+        "cityE": "Kensington, Part 2",
+        "addressE": "1910 Nodd - RTE 113 Road",
         "prov": "PE",
         "pstl": "C0B1N0",
-        "lat": "46.3614003",
-        "lng": "-63.54924621",
+        "lat": "46.360987",
+        "lng": "-63.54731895",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -63.54924621,
-          46.3614003
+          -63.54731895,
+          46.360987
         ]
       }
     }

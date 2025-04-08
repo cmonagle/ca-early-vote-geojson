@@ -4,7 +4,31 @@
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
+        "nameF": "Élections Canada",
+        "cityF": "Conception Bay South",
+        "addressF": "419 Conception Bay Highway",
+        "nameE": "All Saints Parish Hall",
+        "cityE": "Conception Bay South",
+        "addressE": "419 Conception Bay Highway",
+        "prov": "NL",
+        "pstl": "A1X7A2",
+        "lat": "47.51031431",
+        "lng": "-52.98417924",
+        "sitetype": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.98417924,
+          47.51031431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Ferryland",
         "addressF": "88 Baltimore Drive",
@@ -13,94 +37,70 @@
         "addressE": "88 Baltimore Drive",
         "prov": "NL",
         "pstl": "A0A2H0",
-        "lat": "47.04343897",
-        "lng": "-52.88799809",
+        "lat": "47.04310474",
+        "lng": "-52.88907123",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -52.88799809,
-          47.04343897
+          -52.88907123,
+          47.04310474
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
-        "nameF": "Élections Canada",
-        "cityF": "Bay Roberts",
-        "addressF": "8, rue Water, bureau 2",
-        "nameE": "Roach Building - Unit 1",
-        "cityE": "Bay Roberts",
-        "addressE": "8 Water Street, Suite 2",
-        "prov": "NL",
-        "pstl": "A0A1G0",
-        "lat": "47.58209198",
-        "lng": "-53.27927903",
-        "sitetype": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -53.27927903,
-          47.58209198
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
-        "nameF": "Élections Canada",
-        "cityF": "Conception Bay South",
-        "addressF": "419 Conception Bay Highway, bureau 5",
-        "nameE": "All Saints Parish Hall",
-        "cityE": "Conception Bay South",
-        "addressE": "419 Conception Bay Highway, Suite 5",
-        "prov": "NL",
-        "pstl": "A1X7A2",
-        "lat": "47.50965109",
-        "lng": "-52.98381141",
-        "sitetype": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -52.98381141,
-          47.50965109
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "St. Mary's",
-        "addressF": "25 Main Highway",
+        "addressF": "25 Salmonier Line",
         "nameE": "St. Mary's Municipal Building",
         "cityE": "St. Mary's",
-        "addressE": "25 Main Highway",
+        "addressE": "25 Salmonier Line",
         "prov": "NL",
         "pstl": "A0A3B0",
-        "lat": "47.76784438",
-        "lng": "-53.23841633",
+        "lat": "46.91247329",
+        "lng": "-53.57251702",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -53.23841633,
-          47.76784438
+          -53.57251702,
+          46.91247329
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
+        "nameF": "Élections Canada",
+        "cityF": "Bay Roberts",
+        "addressF": "8 Water Street",
+        "nameE": "Roach Building - Unit 1",
+        "cityE": "Bay Roberts",
+        "addressE": "8 Water Street",
+        "prov": "NL",
+        "pstl": "A0A1G0",
+        "lat": "47.58228502",
+        "lng": "-53.27941549",
+        "sitetype": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.27941549,
+          47.58228502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Mount Pearl",
         "addressF": "132 Glencoe Drive",
@@ -109,46 +109,22 @@
         "addressE": "132 Glencoe Drive",
         "prov": "NL",
         "pstl": "A1N4S9",
-        "lat": "47.51120069",
-        "lng": "-52.84839782",
+        "lat": "47.51208944",
+        "lng": "-52.84824521",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -52.84839782,
-          47.51120069
+          -52.84824521,
+          47.51208944
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
-        "nameF": "Élections Canada",
-        "cityF": "Grand Falls-Windsor",
-        "addressF": "5-A, avenue Harris",
-        "nameE": "Johnson Building",
-        "cityE": "Grand Falls-Windsor",
-        "addressE": "5-A Harris Avenue",
-        "prov": "NL",
-        "pstl": "A2A2Y2",
-        "lat": "48.940771",
-        "lng": "-55.64578156",
-        "sitetype": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -55.64578156,
-          48.940771
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Springdale",
         "addressF": "83 Little Bay Road",
@@ -157,46 +133,22 @@
         "addressE": "83 Little Bay Road",
         "prov": "NL",
         "pstl": "A0J1T0",
-        "lat": "49.50099041",
-        "lng": "-56.07773012",
+        "lat": "49.50075716",
+        "lng": "-56.07748771",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -56.07773012,
-          49.50099041
+          -56.07748771,
+          49.50075716
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
-        "nameF": "Élections Canada",
-        "cityF": "Harbour Breton",
-        "addressF": "43 Canada Drive",
-        "nameE": "Drake Building",
-        "cityE": "Harbour Breton",
-        "addressE": "43 Canada Drive",
-        "prov": "NL",
-        "pstl": "A0H1B0",
-        "lat": "47.4782704",
-        "lng": "-55.85024827",
-        "sitetype": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -55.85024827,
-          47.4782704
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Complexe McCurdy - 1er étage",
         "cityF": "Gander",
         "addressF": "1 Markham Place",
@@ -205,46 +157,70 @@
         "addressE": "1 Markham Place",
         "prov": "NL",
         "pstl": "A1V0A8",
-        "lat": "48.95993701",
-        "lng": "-54.61341901",
+        "lat": "48.95946153",
+        "lng": "-54.61577248",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -54.61341901,
-          48.95993701
+          -54.61577248,
+          48.95946153
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
-        "cityF": "Happy Valley-Goose Bay",
-        "addressF": "49-C, rue Grenfell",
-        "nameE": "Elections Canada",
-        "cityE": "Happy Valley-Goose Bay",
-        "addressE": "49-C Grenfell Street",
+        "cityF": "Grand Falls-Windsor",
+        "addressF": "5 Harris Avenue",
+        "nameE": "Johnson Building",
+        "cityE": "Grand Falls-Windsor",
+        "addressE": "5 Harris Avenue",
         "prov": "NL",
-        "pstl": "A0P1E0",
-        "lat": "53.29781691",
-        "lng": "-60.30365512",
+        "pstl": "A2A2Y2",
+        "lat": "48.94838646",
+        "lng": "-55.64867654",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -60.30365512,
-          53.29781691
+          -55.64867654,
+          48.94838646
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
+        "nameF": "Élections Canada",
+        "cityF": "Harbour Breton",
+        "addressF": "43 Canada Drive",
+        "nameE": "Drake Building",
+        "cityE": "Harbour Breton",
+        "addressE": "43 Canada Drive",
+        "prov": "NL",
+        "pstl": "A0H1P0",
+        "lat": "47.47591202",
+        "lng": "-55.82817119",
+        "sitetype": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.82817119,
+          47.47591202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Wabush",
         "addressF": "1 Grenfell Drive",
@@ -253,167 +229,167 @@
         "addressE": "1 Grenfell Drive",
         "prov": "NL",
         "pstl": "A0R1B0",
-        "lat": "52.90057255",
-        "lng": "-66.8704781",
+        "lat": "52.91038356",
+        "lng": "-66.87504854",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -66.8704781,
-          52.90057255
+          -66.87504854,
+          52.91038356
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
-        "cityF": "Stephenville",
-        "addressF": "63, avenue St. Clare",
+        "cityF": "Happy Valley-Goose Bay",
+        "addressF": "49 Grenfell Street",
         "nameE": "Elections Canada",
-        "cityE": "Stephenville",
-        "addressE": "63 St. Clare Avenue",
+        "cityE": "Happy Valley-Goose Bay",
+        "addressE": "49 Grenfell Street",
         "prov": "NL",
-        "pstl": "A2N1P2",
-        "lat": "48.55261478",
-        "lng": "-58.58029702",
+        "pstl": "A0P1E0",
+        "lat": "53.29775279",
+        "lng": "-60.30437643",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -58.58029702,
-          48.55261478
+          -60.30437643,
+          53.29775279
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Corner Brook",
-        "addressF": "79, avenue Mount Bernard",
+        "addressF": "79 Mount Bernard Avenue",
         "nameE": "Elections Canada",
         "cityE": "Corner Brook",
-        "addressE": "79 Mount Bernard  Avenue",
+        "addressE": "79 Mount Bernard Avenue",
         "prov": "NL",
         "pstl": "A2H5G3",
-        "lat": "48.94481178",
-        "lng": "-57.94370044",
+        "lat": "48.94450151",
+        "lng": "-57.94357551",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -57.94370044,
-          48.94481178
+          -57.94357551,
+          48.94450151
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
+        "nameF": "Élections Canada",
+        "cityF": "Stephenville",
+        "addressF": "63 St. Claire Avenue",
+        "nameE": "Elections Canada",
+        "cityE": "Stephenville",
+        "addressE": "63 St. Claire Avenue",
+        "prov": "NL",
+        "pstl": "A2N1P2",
+        "lat": "48.55210623",
+        "lng": "-58.58131309",
+        "sitetype": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.58131309,
+          48.55210623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Place Bally Rou",
         "cityF": "St. John's",
-        "addressF": "370 Torbay Road, bureau W310",
+        "addressF": "370 Torbay Road",
         "nameE": "Bally Rou Place",
         "cityE": "St. John's",
-        "addressE": "370 Torbay Road, Suite W310",
+        "addressE": "370 Torbay Road",
         "prov": "NL",
         "pstl": "A1A3W8",
-        "lat": "47.6044536",
-        "lng": "-52.71683296",
+        "lat": "47.60428631",
+        "lng": "-52.71780011",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -52.71683296,
-          47.6044536
+          -52.71780011,
+          47.60428631
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Salle de l'eglise anglicane St. George's",
         "cityF": "Gambo",
-        "addressF": "432, boulevard J.R. Smallwood",
+        "addressF": "432 J.R. Smallwood Boulevard",
         "nameE": "St. George's Anglican Church Hall",
         "cityE": "Gambo",
-        "addressE": "432 J.R. Smallwood  Boulevard",
+        "addressE": "432 J.R. Smallwood Boulevard",
         "prov": "NL",
-        "pstl": "A0G1T0",
-        "lat": "48.79654271",
-        "lng": "-54.20342752",
+        "pstl": "A0E1T0",
+        "lat": "48.79678339",
+        "lng": "-54.20362315",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -54.20342752,
-          48.79654271
+          -54.20362315,
+          48.79678339
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
-        "nameF": "Batiment Goobie",
-        "cityF": "Clarenville",
-        "addressF": "8, avenue Myer's, bureau 101",
-        "nameE": "Goobie Building",
-        "cityE": "Clarenville",
-        "addressE": "8 Myer's Avenue, Suite 101",
-        "prov": "NL",
-        "pstl": "A5A1T5",
-        "lat": "48.16373429",
-        "lng": "-53.9898682",
-        "sitetype": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -53.9898682,
-          48.16373429
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
-        "nameF": "Élections Canada",
-        "cityF": "Dildo",
-        "addressF": "112 Main  Road",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
+        "nameF": "Elections Canada",
+        "cityF": "Division No.  1, Subd. A",
+        "addressF": "112 Main Road",
         "nameE": "Higdon Building",
-        "cityE": "Dildo",
-        "addressE": "112 Main  Road",
+        "cityE": "Division No.  1, Subd. A",
+        "addressE": "112 Main Road",
         "prov": "NL",
         "pstl": "A0B1P0",
-        "lat": "47.5501309",
-        "lng": "-53.66450401",
+        "lat": "47.56770056",
+        "lng": "-53.54796229",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -53.66450401,
-          47.5501309
+          -53.54796229,
+          47.56770056
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
-        "nameF": "Élections Canada",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
+        "nameF": "Elections Canada",
         "cityF": "Placentia",
         "addressF": "61 Blockhouse Road",
         "nameE": "Placentia Mall Inc.",
@@ -421,22 +397,46 @@
         "addressE": "61 Blockhouse Road",
         "prov": "NL",
         "pstl": "A0B2Y0",
-        "lat": "47.23741291",
-        "lng": "-53.967687",
+        "lat": "47.23760484",
+        "lng": "-53.96844123",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -53.967687,
-          47.23741291
+          -53.96844123,
+          47.23760484
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
+        "nameF": "Batiment Goobie",
+        "cityF": "Clarenville",
+        "addressF": "8 Myer's Avenue",
+        "nameE": "Goobie Building",
+        "cityE": "Clarenville",
+        "addressE": "8 Myer's Avenue",
+        "prov": "NL",
+        "pstl": "A5A1T5",
+        "lat": "48.16493271",
+        "lng": "-53.98996519",
+        "sitetype": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.98996519,
+          48.16493271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Marystown",
         "addressF": "131 Ville Marie Drive",
@@ -445,15 +445,15 @@
         "addressE": "131 Ville Marie Drive",
         "prov": "NL",
         "pstl": "A0E2M0",
-        "lat": "47.16344219",
-        "lng": "-55.16668187",
+        "lat": "47.16553734",
+        "lng": "-55.15353404",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -55.16668187,
-          47.16344219
+          -55.15353404,
+          47.16553734
         ]
       }
     }

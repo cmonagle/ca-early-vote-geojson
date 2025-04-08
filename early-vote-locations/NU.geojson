@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Franco-Centre",
         "cityF": "Iqaluit",
         "addressF": "981 Nunavut Drive",
@@ -13,15 +13,15 @@
         "addressE": "981 Nunavut Drive",
         "prov": "NU",
         "pstl": "X0A3H0",
-        "lat": "63.75016609",
-        "lng": "-68.52582797",
+        "lat": "63.74990465",
+        "lng": "-68.52608512",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -68.52582797,
-          63.75016609
+          -68.52608512,
+          63.74990465
         ]
       }
     }

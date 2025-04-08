@@ -4,320 +4,320 @@
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Bathurst",
-        "addressF": "1300, avenue St-Peter, bureau 202",
+        "addressF": "1300 St-Peter Avenue",
         "nameE": "Place Bathurst Mall",
         "cityE": "Bathurst",
-        "addressE": "1300 St-Peter Avenue, Suite 202",
+        "addressE": "1300 St-Peter Avenue",
         "prov": "NB",
         "pstl": "E2A3A6",
-        "lat": "47.64005129",
-        "lng": "-65.67637492",
+        "lat": "47.63942987",
+        "lng": "-65.67987422",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -65.67637492,
-          47.64005129
+          -65.67987422,
+          47.63942987
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Centre Commercial le Rond Point",
-        "cityF": "Tracadie-Sheila",
-        "addressF": "3409 rue Principale, bureau 23",
+        "cityF": "Tracadie",
+        "addressF": "3409 Principale Street",
         "nameE": "Le Rond Point Mall",
-        "cityE": "Tracadie-Sheila",
-        "addressE": "3409 rue Principale, Suite 23",
+        "cityE": "Tracadie",
+        "addressE": "3409 Principale Street",
         "prov": "NB",
         "pstl": "E1X1C7",
-        "lat": "47.52128241",
-        "lng": "-64.91074071",
+        "lat": "47.5213318",
+        "lng": "-64.91246379",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -64.91074071,
-          47.52128241
+          -64.91246379,
+          47.5213318
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Hotel de Ville de Beaurivage",
-        "cityF": "Richibucto",
-        "addressF": "9235, rue Main",
+        "cityF": "Beaurivage",
+        "addressF": "9235 Main Street",
         "nameE": "Beaurivage Town Hall",
-        "cityE": "Richibucto",
+        "cityE": "Beaurivage",
         "addressE": "9235 Main Street",
         "prov": "NB",
         "pstl": "E4W4B4",
-        "lat": "46.67096959",
-        "lng": "-64.86798294",
+        "lat": "46.67106687",
+        "lng": "-64.86885619",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -64.86798294,
-          46.67096959
+          -64.86885619,
+          46.67106687
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élection Canada",
-        "cityF": "Sackville",
-        "addressF": "95, rue Bridge, bureau C",
+        "cityF": "Tantramar",
+        "addressF": "95 Bridge Street",
         "nameE": "Elections Canada",
-        "cityE": "Sackville",
-        "addressE": "95 Bridge Street, Suite C",
+        "cityE": "Tantramar",
+        "addressE": "95 Bridge Street",
         "prov": "NB",
         "pstl": "E4L3P1",
-        "lat": "45.89609508",
-        "lng": "-64.35900277",
+        "lat": "45.89620879",
+        "lng": "-64.35888912",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -64.35900277,
-          45.89609508
+          -64.35888912,
+          45.89620879
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Notre Centre",
-        "cityF": "Grande-Digue",
+        "cityF": "Beausoleil",
         "addressF": "468 Route 530",
         "nameE": "Notre Centre",
-        "cityE": "Grande-Digue",
+        "cityE": "Beausoleil",
         "addressE": "468 Route 530",
         "prov": "NB",
         "pstl": "E4R5K3",
-        "lat": "46.29659029",
-        "lng": "-64.56175797",
+        "lat": "46.29569693",
+        "lng": "-64.56200905",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -64.56175797,
-          46.29659029
+          -64.56200905,
+          46.29569693
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Fredericton",
-        "addressF": "25, boulevard Alison",
+        "addressF": "25 Alison Boulevard",
         "nameE": "Elections Canada",
         "cityE": "Fredericton",
         "addressE": "25 Alison Boulevard",
         "prov": "NB",
         "pstl": "E3C2N5",
-        "lat": "45.92224448",
-        "lng": "-66.63693927",
+        "lat": "45.92228491",
+        "lng": "-66.63701032",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -66.63693927,
-          45.92224448
+          -66.63701032,
+          45.92228491
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
+        "nameF": "Élections Canada",
+        "cityF": "Riverview",
+        "addressF": "720 Coverdale Road",
+        "nameE": "Riverview Mall",
+        "cityE": "Riverview",
+        "addressE": "720 Coverdale Road",
+        "prov": "NB",
+        "pstl": "E1B3L8",
+        "lat": "46.0595154",
+        "lng": "-64.81800269",
+        "sitetype": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.81800269,
+          46.0595154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Hampton",
-        "addressF": "6, rue Church",
+        "addressF": "6 Church Street",
         "nameE": "Elections Canada",
         "cityE": "Hampton",
         "addressE": "6 Church Street",
         "prov": "NB",
         "pstl": "E5N5B3",
-        "lat": "45.526074",
-        "lng": "-65.82373599",
+        "lat": "45.52640299",
+        "lng": "-65.82403746",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -65.82373599,
-          45.526074
+          -65.82403746,
+          45.52640299
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
-        "nameF": "Élections Canada",
-        "cityF": "Riverview",
-        "addressF": "720 Coverdale Road, bureau 120",
-        "nameE": "Riverview Mall",
-        "cityE": "Riverview",
-        "addressE": "720 Coverdale Road, Suite 120",
-        "prov": "NB",
-        "pstl": "E1B3L8",
-        "lat": "46.05936018",
-        "lng": "-64.81758633",
-        "sitetype": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -64.81758633,
-          46.05936018
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Campbellton",
-        "addressF": "8, rue Adam",
-        "nameE": "Masonic Temple Lodge #32",
+        "addressF": "8 Adam Street",
+        "nameE": "Elections Canada",
         "cityE": "Campbellton",
         "addressE": "8 Adam Street",
         "prov": "NB",
         "pstl": "E3N2V2",
-        "lat": "48.00418971",
-        "lng": "-66.67423597",
+        "lat": "48.00418256",
+        "lng": "-66.67450128",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -66.67423597,
-          48.00418971
+          -66.67450128,
+          48.00418256
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
-        "nameF": "Ancien Edmundston Toyota",
-        "cityF": "Edmundston",
-        "addressF": "121 Chemin Canada Road",
-        "nameE": "Former Edmundston Toyota",
-        "cityE": "Edmundston",
-        "addressE": "121 Chemin Canada Road",
-        "prov": "NB",
-        "pstl": "E3V1V7",
-        "lat": "47.36559421",
-        "lng": "-68.33087211",
-        "sitetype": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -68.33087211,
-          47.36559421
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Édifice municipale de Saint-André",
-        "cityF": "Saint-André",
-        "addressF": "492 chemin de l'Église",
+        "cityF": "Grand-Sault / Grand Falls",
+        "addressF": "492 de l'Église Chemin",
         "nameE": "Saint-André Municipal Building",
-        "cityE": "Saint-André",
-        "addressE": "492 chemin de l'Église",
+        "cityE": "Grand-Sault / Grand Falls",
+        "addressE": "492 de l'Église Chemin",
         "prov": "NB",
         "pstl": "E3Y2Y6",
-        "lat": "47.10115535",
-        "lng": "-67.76463771",
+        "lat": "47.10105344",
+        "lng": "-67.76415076",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -67.76463771,
-          47.10115535
+          -67.76415076,
+          47.10105344
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
-        "nameF": "Élections Canada",
-        "cityF": "Minto",
-        "addressF": "16, rue Legion",
-        "nameE": "Royal Canadian Legion Branch #12",
-        "cityE": "Minto",
-        "addressE": "16 Legion Street",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
+        "nameF": "Élections Canada (Ancien Toyota)",
+        "cityF": "Edmundston",
+        "addressF": "121 Canada Chemin",
+        "nameE": "Elections Canada (Former Toyota)",
+        "cityE": "Edmundston",
+        "addressE": "121 Canada Chemin",
         "prov": "NB",
-        "pstl": "E4B3N8",
-        "lat": "46.0768134",
-        "lng": "-66.07208717",
+        "pstl": "E3V1V7",
+        "lat": "47.36559634",
+        "lng": "-68.33180049",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -66.07208717,
-          46.0768134
+          -68.33180049,
+          47.36559634
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Miramichi",
-        "addressF": "150, rue Pleasant",
+        "addressF": "150 Pleasant Street",
         "nameE": "Roach Building",
         "cityE": "Miramichi",
         "addressE": "150 Pleasant Street",
         "prov": "NB",
         "pstl": "E1V1Y1",
-        "lat": "46.99757171",
-        "lng": "-65.56796481",
+        "lat": "46.9978059",
+        "lng": "-65.56813191",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -65.56796481,
-          46.99757171
+          -65.56813191,
+          46.9978059
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
+        "cityF": "Grand Lake",
+        "addressF": "16 Legion Street",
+        "nameE": "Royal Canadian Legion Branch #12",
+        "cityE": "Grand Lake",
+        "addressE": "16 Legion Street",
+        "prov": "NB",
+        "pstl": "E4B3N8",
+        "lat": "46.07605897",
+        "lng": "-66.07213781",
+        "sitetype": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.07213781,
+          46.07605897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
+        "nameF": "Elections Canada",
         "cityF": "Dieppe",
         "addressF": "459 Paul Street",
         "nameE": "Elections Canada",
@@ -325,118 +325,118 @@
         "addressE": "459 Paul Street",
         "prov": "NB",
         "pstl": "E1A5R4",
-        "lat": "46.09564699",
-        "lng": "-64.7571456",
+        "lat": "46.09575315",
+        "lng": "-64.75658437",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -64.7571456,
-          46.09564699
+          -64.75658437,
+          46.09575315
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Saint John",
-        "addressF": "120, rue Macdonald, bureau 190",
+        "addressF": "120 McDonald Street",
         "nameE": "Loch Lomond Place",
         "cityE": "Saint John",
-        "addressE": "120 Macdonald   Street, Suite 190",
+        "addressE": "120 McDonald Street",
         "prov": "NB",
         "pstl": "E2J1M5",
-        "lat": "45.28697748",
-        "lng": "-66.02843883",
+        "lat": "45.28845835",
+        "lng": "-66.02900598",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -66.02843883,
-          45.28697748
+          -66.02900598,
+          45.28845835
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
+        "cityF": "St. Stephen",
+        "addressF": "146 Route 170",
+        "nameE": "Elections Canada",
+        "cityE": "St. Stephen",
+        "addressE": "146 Route 170",
+        "prov": "NB",
+        "pstl": "E3L3X4",
+        "lat": "45.211329",
+        "lng": "-67.25181896",
+        "sitetype": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.25181896,
+          45.211329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
+        "nameF": "St. Marks United Church Hall ",
         "cityF": "Saint John",
         "addressF": "50 Dexter Drive",
-        "nameE": "St. Marks United Church",
+        "nameE": "St. Marks United Church Hall ",
         "cityE": "Saint John",
         "addressE": "50 Dexter Drive",
         "prov": "NB",
         "pstl": "E2M4M4",
-        "lat": "45.25405379",
-        "lng": "-66.1050506",
+        "lat": "45.25355245",
+        "lng": "-66.105893",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -66.1050506,
-          45.25405379
+          -66.105893,
+          45.25355245
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
-        "nameF": "Élections Canada",
-        "cityF": "Dufferin",
-        "addressF": "146 Route 170",
-        "nameE": "Elections Canada",
-        "cityE": "Dufferin",
-        "addressE": "146 Route 170",
-        "prov": "NB",
-        "pstl": "E3L3X4",
-        "lat": "45.19918958",
-        "lng": "-67.27506093",
-        "sitetype": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -67.27506093,
-          45.19918958
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Centre communautaire de Keswick",
-        "cityF": "Keswick Ridge",
+        "cityF": "Central York",
         "addressF": "180 McKeen Drive",
         "nameE": "Keswick Community Centre",
-        "cityE": "Keswick Ridge",
+        "cityE": "Central York",
         "addressE": "180 McKeen Drive",
         "prov": "NB",
         "pstl": "E6L1N9",
-        "lat": "45.97114233",
-        "lng": "-66.8535435",
+        "lat": "45.96555584",
+        "lng": "-66.85893164",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -66.8535435,
-          45.97114233
+          -66.85893164,
+          45.96555584
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Clinique Dentaire Carleton",
         "cityF": "Bedell",
         "addressF": "316 Route 555",
@@ -445,39 +445,39 @@
         "addressE": "316 Route 555",
         "prov": "NB",
         "pstl": "E7M4P1",
-        "lat": "46.1464536",
-        "lng": "-67.63071539",
+        "lat": "46.14641195",
+        "lng": "-67.63083319",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -67.63071539,
-          46.1464536
+          -67.63083319,
+          46.14641195
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
-        "nameF": "Élections Canada",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
+        "nameF": "Elections Canada",
         "cityF": "Hanwell",
-        "addressF": "1757 Route 640, bureau 5",
+        "addressF": "1757 Route 640",
         "nameE": "Hanwell Mall- Hanwell Commercial Centre",
         "cityE": "Hanwell",
-        "addressE": "1757 Route 640, Suite 5",
+        "addressE": "1757 Route 640",
         "prov": "NB",
         "pstl": "E3C2B9",
-        "lat": "45.92631128",
-        "lng": "-66.72209509",
+        "lat": "45.92626757",
+        "lng": "-66.72207436",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -66.72209509,
-          45.92631128
+          -66.72207436,
+          45.92626757
         ]
       }
     }

@@ -4,271 +4,271 @@
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Ajax",
-        "addressF": "274, avenue Mackenzie",
+        "addressF": "274 Mackenzie Avenue",
         "nameE": "Elections Canada",
         "cityE": "Ajax",
         "addressE": "274 Mackenzie Avenue",
         "prov": "ON",
         "pstl": "L1S2E9",
-        "lat": "43.84243191",
-        "lng": "-79.03035609",
+        "lat": "43.8432002",
+        "lng": "-79.02951043",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.03035609,
-          43.84243191
+          -79.02951043,
+          43.8432002
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Pembroke",
-        "addressF": "1200, rue Pembroke Ouest, bureau 130",
+        "addressF": "1200 Pembroke Street West",
         "nameE": "Elections Canada",
         "cityE": "Pembroke",
-        "addressE": "1200 Pembroke Street West, Suite 130",
+        "addressE": "1200 Pembroke Street West",
         "prov": "ON",
         "pstl": "K8A7T1",
-        "lat": "45.83164248",
-        "lng": "-77.14674413",
+        "lat": "45.83170991",
+        "lng": "-77.14656403",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.14674413,
-          45.83164248
+          -77.14656403,
+          45.83170991
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Aurora",
-        "addressF": "14824, rue Yonge",
+        "addressF": "14824 Yonge Street",
         "nameE": "Elections Canada",
         "cityE": "Aurora",
         "addressE": "14824 Yonge Street",
         "prov": "ON",
         "pstl": "L4G1N3",
-        "lat": "43.98910981",
-        "lng": "-79.46552539",
+        "lat": "43.988961",
+        "lng": "-79.46498754",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.46552539,
-          43.98910981
+          -79.46498754,
+          43.988961
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Barrie",
-        "addressF": "431 Bayview Drive, bureau 8",
+        "addressF": "431 Bayview Drive",
         "nameE": "Elections Canada",
         "cityE": "Barrie",
-        "addressE": "431 Bayview Drive, Suite 8",
+        "addressE": "431 Bayview Drive",
         "prov": "ON",
         "pstl": "L4N8Y2",
-        "lat": "44.34451239",
-        "lng": "-79.67835876",
+        "lat": "44.3442795",
+        "lng": "-79.67844915",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.67835876,
-          44.34451239
+          -79.67844915,
+          44.3442795
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Barrie",
-        "addressF": "60 Bell Farm Road, bureau 4",
-        "nameE": "Simcoe Muskoka Family Connexions",
+        "addressF": "60 Bell Farm Road",
+        "nameE": "Elections Canada",
         "cityE": "Barrie",
-        "addressE": "60 Bell Farm Road, Suite 4",
+        "addressE": "60 Bell Farm Road",
         "prov": "ON",
         "pstl": "L4M5G6",
-        "lat": "44.40939591",
-        "lng": "-79.68080133",
+        "lat": "44.4092201",
+        "lng": "-79.67952371",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.68080133,
-          44.40939591
+          -79.67952371,
+          44.4092201
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
-        "cityF": "Trenton",
-        "addressF": "85, rue Dundas Est",
+        "cityF": "Quinte West",
+        "addressF": "85 Dundas Street East",
         "nameE": "Trenton United Church",
-        "cityE": "Trenton",
+        "cityE": "Quinte West",
         "addressE": "85 Dundas Street East",
         "prov": "ON",
         "pstl": "K8V1K8",
-        "lat": "44.10478179",
-        "lng": "-77.57011817",
+        "lat": "44.10507214",
+        "lng": "-77.57029319",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.57011817,
-          44.10478179
+          -77.57029319,
+          44.10507214
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Belleville",
-        "addressF": "71, rue Adam",
+        "addressF": "71 Adam Street",
         "nameE": "Elections Canada",
         "cityE": "Belleville",
         "addressE": "71 Adam Street",
         "prov": "ON",
         "pstl": "K8N5K3",
-        "lat": "44.19002901",
-        "lng": "-77.383939",
+        "lat": "44.1904686",
+        "lng": "-77.38409337",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.383939,
-          44.19002901
+          -77.38409337,
+          44.1904686
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Toronto",
-        "addressF": "2575, avenue Danforth",
-        "nameE": "Elections Canada",
+        "addressF": "2575 Danforth Avenue",
+        "nameE": "Elections Canada ",
         "cityE": "Toronto",
         "addressE": "2575 Danforth Avenue",
         "prov": "ON",
-        "pstl": "M5C1L5",
-        "lat": "43.68820141",
-        "lng": "-79.30032043",
+        "pstl": "M4C1L5",
+        "lat": "43.68845913",
+        "lng": "-79.30041603",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.30032043,
-          43.68820141
+          -79.30041603,
+          43.68845913
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Elections Canada",
-        "cityF": "Bowmanville",
-        "addressF": "415 Baseline Road West, bureau B001",
+        "cityF": "Clarington",
+        "addressF": "415 Baseline Road West",
         "nameE": "Elections Canada",
-        "cityE": "Bowmanville",
-        "addressE": "415 Baseline Road West, Suite B001",
+        "cityE": "Clarington",
+        "addressE": "415 Baseline Road West",
         "prov": "ON",
         "pstl": "L1C3K3",
-        "lat": "43.89628501",
-        "lng": "-78.69473203",
+        "lat": "43.89704575",
+        "lng": "-78.69381461",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.69473203,
-          43.89628501
+          -78.69381461,
+          43.89704575
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Brampton",
-        "addressF": "499, rue Main Sud, bureau 65",
+        "addressF": "499 Main Street South",
         "nameE": "Elections Canada",
         "cityE": "Brampton",
-        "addressE": "499 Main Street South, Suite 65",
+        "addressE": "499 Main Street South",
         "prov": "ON",
         "pstl": "L6Y1N7",
-        "lat": "43.66598866",
-        "lng": "-79.73882774",
+        "lat": "43.66652628",
+        "lng": "-79.73651339",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.73882774,
-          43.66598866
+          -79.73651339,
+          43.66652628
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Centre-ville de Bramalea",
         "cityF": "Brampton",
-        "addressF": "25 Peel Centre Drive, bureau 6",
+        "addressF": "25 Peel Centre Drive",
         "nameE": "Bramalea City Centre",
         "cityE": "Brampton",
-        "addressE": "25 Peel Centre Drive, Suite 6",
+        "addressE": "25 Peel Centre Drive",
         "prov": "ON",
         "pstl": "L6T3R5",
-        "lat": "43.71603713",
-        "lng": "-79.72430961",
+        "lat": "43.71698273",
+        "lng": "-79.72393537",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.72430961,
-          43.71603713
+          -79.72393537,
+          43.71698273
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Brampton",
         "addressF": "2600 North Park Drive",
@@ -277,622 +277,622 @@
         "addressE": "2600 North Park Drive",
         "prov": "ON",
         "pstl": "L6S6E2",
-        "lat": "43.7581665",
-        "lng": "-79.72082173",
+        "lat": "43.75660623",
+        "lng": "-79.71932557",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.72082173,
-          43.7581665
+          -79.71932557,
+          43.75660623
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
-        "nameF": "Springdale Professional Building",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
+        "nameF": "Springdale Professional Building ",
         "cityF": "Brampton",
-        "addressF": "2250 Bovaird  Drive East, bureau 109",
-        "nameE": "Springdale Professional Building",
+        "addressF": "2250 Bovaird Drive East",
+        "nameE": "Springdale Professional Building ",
         "cityE": "Brampton",
-        "addressE": "2250 Bovaird  Drive East, Suite 109",
+        "addressE": "2250 Bovaird Drive East",
         "prov": "ON",
         "pstl": "L6R0W3",
-        "lat": "43.75072651",
-        "lng": "-79.73924021",
+        "lat": "43.7509171",
+        "lng": "-79.73918039",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.73924021,
-          43.75072651
+          -79.73918039,
+          43.7509171
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Brampton",
-        "addressF": "499, rue Main Sud, bureau 6",
+        "addressF": "499 Main Street South",
         "nameE": "Shoppers World Brampton",
         "cityE": "Brampton",
-        "addressE": "499 Main Street South, Suite 6",
+        "addressE": "499 Main Street South",
         "prov": "ON",
         "pstl": "L6Y1N7",
-        "lat": "43.66627058",
-        "lng": "-79.73717751",
+        "lat": "43.66619062",
+        "lng": "-79.73572483",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.73717751,
-          43.66627058
+          -79.73572483,
+          43.66619062
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Elections Canada",
         "cityF": "Brampton",
-        "addressF": "23 Regan Road, bureau 3",
+        "addressF": "23 Regan Road",
         "nameE": "Unifor Building",
         "cityE": "Brampton",
-        "addressE": "23 Regan Road, Suite 3",
+        "addressE": "23 Regan Road",
         "prov": "ON",
         "pstl": "L7A1B2",
-        "lat": "43.70244809",
-        "lng": "-79.80205411",
+        "lat": "43.70217233",
+        "lng": "-79.80266257",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.80205411,
-          43.70244809
+          -79.80266257,
+          43.70217233
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Brantford",
-        "addressF": "100, rue Wellington",
+        "addressF": "100  Wellington  Street",
         "nameE": "Elections Canada",
         "cityE": "Brantford",
         "addressE": "100  Wellington  Street",
         "prov": "ON",
         "pstl": "N3T2M2",
-        "lat": "43.1418144",
-        "lng": "-80.26235043",
+        "lat": "43.14129876",
+        "lng": "-80.26250321",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.26235043,
-          43.1418144
+          -80.26250321,
+          43.14129876
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
+        "nameF": "Elections Canada",
+        "cityF": "Owen Sound",
+        "addressF": "945 3rd  Avenue East",
+        "nameE": "The Professional Building",
+        "cityE": "Owen Sound",
+        "addressE": "945 3rd  Avenue East",
+        "prov": "ON",
+        "pstl": "N4K2K8",
+        "lat": "44.56710764",
+        "lng": "-80.94038",
+        "sitetype": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.94038,
+          44.56710764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
-        "cityF": "Wiarton",
-        "addressF": "575, rue Edward",
+        "cityF": "South Bruce Peninsula",
+        "addressF": "575 Edward Street",
         "nameE": "Wiarton Propeller Club",
-        "cityE": "Wiarton",
+        "cityE": "South Bruce Peninsula",
         "addressE": "575 Edward Street",
         "prov": "ON",
         "pstl": "N0H2T0",
-        "lat": "44.73664599",
-        "lng": "-81.13114903",
+        "lat": "44.73672223",
+        "lng": "-81.13134401",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.13114903,
-          44.73664599
+          -81.13134401,
+          44.73672223
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
-        "nameF": "Élections Canada",
-        "cityF": "Durham",
-        "addressF": "127, rue Garafraxa Sud",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
+        "nameF": "Elections Canada",
+        "cityF": "West Grey",
+        "addressF": "127 Garafraxa Street South",
         "nameE": "Elections Canada",
-        "cityE": "Durham",
+        "cityE": "West Grey",
         "addressE": "127 Garafraxa Street South",
         "prov": "ON",
         "pstl": "N0G1R0",
-        "lat": "44.1759708",
-        "lng": "-80.81791412",
+        "lat": "44.1758675",
+        "lng": "-80.81811757",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.81791412,
-          44.1759708
+          -80.81811757,
+          44.1758675
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
-        "nameF": "Élections Canada",
-        "cityF": "Owen Sound",
-        "addressF": "945 3rd  Avenue East, bureau 24",
-        "nameE": "The Professional Building",
-        "cityE": "Owen Sound",
-        "addressE": "945 3rd  Avenue East, Suite 24",
-        "prov": "ON",
-        "pstl": "N4K2K8",
-        "lat": "44.56715322",
-        "lng": "-80.94038974",
-        "sitetype": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.94038974,
-          44.56715322
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Carré Place Burlington",
         "cityF": "Burlington",
-        "addressF": "760, rue Brant, bureau 15",
+        "addressF": "760 Brant Street",
         "nameE": "Burlington Square Plaza",
         "cityE": "Burlington",
-        "addressE": "760 Brant Street, Suite 15",
+        "addressE": "760 Brant Street",
         "prov": "ON",
-        "pstl": "L7R4B7",
-        "lat": "43.33236561",
-        "lng": "-79.80829896",
+        "pstl": "L7S1X7",
+        "lat": "43.33307859",
+        "lng": "-79.80865343",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.80829896,
-          43.33236561
+          -79.80865343,
+          43.33307859
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Milton",
-        "addressF": "550, rue Ontario Sud, bureau 6",
+        "addressF": "550 Ontario Street South",
         "nameE": "Elections Canada",
         "cityE": "Milton",
-        "addressE": "550 Ontario Street South, Suite 6",
+        "addressE": "550 Ontario Street South",
         "prov": "ON",
         "pstl": "L9T5E4",
-        "lat": "43.5064766",
-        "lng": "-79.86298057",
+        "lat": "43.50716915",
+        "lng": "-79.86243119",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.86298057,
-          43.5064766
+          -79.86243119,
+          43.50716915
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Cambridge",
-        "addressF": "46 Pinebush Road, bureau 2",
+        "addressF": "46 Pinebush Road",
         "nameE": "Elections Canada",
         "cityE": "Cambridge",
-        "addressE": "46 Pinebush Road, Suite 2",
+        "addressE": "46 Pinebush Road",
         "prov": "ON",
         "pstl": "N1R8K5",
-        "lat": "43.40961239",
-        "lng": "-80.32326147",
+        "lat": "43.40954763",
+        "lng": "-80.32326942",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.32326147,
-          43.40961239
+          -80.32326942,
+          43.40954763
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
-        "cityF": "Munster",
+        "cityF": "Ottawa",
         "addressF": "7816 Bleeks Road",
         "nameE": "Elections Canada (Formerly Munster Public Elementary School)",
-        "cityE": "Munster",
+        "cityE": "Ottawa",
         "addressE": "7816 Bleeks Road",
         "prov": "ON",
         "pstl": "K0A3P0",
-        "lat": "45.16259331",
-        "lng": "-75.94124591",
+        "lat": "45.16278851",
+        "lng": "-75.94186976",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.94124591,
-          45.16259331
+          -75.94186976,
+          45.16278851
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Village médical de Leamington",
         "cityF": "Leamington",
-        "addressF": "197, rue Talbot Ouest, bureau 500",
+        "addressF": "197  Talbot Street West",
         "nameE": "Leamington Medical Village",
         "cityE": "Leamington",
-        "addressE": "197  Talbot Street West, Suite 500",
+        "addressE": "197  Talbot Street West",
         "prov": "ON",
         "pstl": "N8H1N8",
-        "lat": "42.05149061",
-        "lng": "-82.6151763",
+        "lat": "42.05045548",
+        "lng": "-82.61528041",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.6151763,
-          42.05149061
+          -82.61528041,
+          42.05045548
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Chatham",
-        "addressF": "100, rue King Ouest, bureau T201",
+        "addressF": "100 King Street West",
         "nameE": "Elections Canada",
         "cityE": "Chatham",
-        "addressE": "100 King Street West, Suite T201",
+        "addressE": "100 King Street West",
         "prov": "ON",
         "pstl": "N7M6A9",
-        "lat": "42.40455158",
-        "lng": "-82.18297",
+        "lat": "42.40555673",
+        "lng": "-82.18406443",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.18297,
-          42.40455158
+          -82.18406443,
+          42.40555673
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Toronto",
-        "addressF": "30, rue Humbert",
+        "addressF": "30 Humbert Street",
         "nameE": "Senhor Santo Christo Catholic School",
         "cityE": "Toronto",
         "addressE": "30 Humbert Street",
         "prov": "ON",
         "pstl": "M6J1M5",
-        "lat": "43.64605662",
-        "lng": "-79.4209019",
+        "lat": "43.64578873",
+        "lng": "-79.42099858",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.4209019,
-          43.64605662
+          -79.42099858,
+          43.64578873
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Elections Canada",
         "cityF": "Toronto",
-        "addressF": "225 Duncan Mills Road, bureau 320",
+        "addressF": "225 Duncan Mill Road",
         "nameE": "Forest Ridge",
         "cityE": "Toronto",
-        "addressE": "225 Duncan Mills Road, Suite 320",
+        "addressE": "225 Duncan Mill Road",
         "prov": "ON",
         "pstl": "M3B3K9",
-        "lat": "43.76143699",
-        "lng": "-79.35268276",
+        "lat": "43.761669",
+        "lng": "-79.35281585",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.35268276,
-          43.76143699
+          -79.35281585,
+          43.761669
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Toronto",
-        "addressF": "65, boulevard Overlea, bureau 400",
+        "addressF": "65 Overlea Boulevard",
         "nameE": "Elections Canada",
         "cityE": "Toronto",
-        "addressE": "65 Overlea Boulevard, Suite 400",
+        "addressE": "65 Overlea Boulevard",
         "prov": "ON",
         "pstl": "M4H1P1",
-        "lat": "43.7073614",
-        "lng": "-79.34265491",
+        "lat": "43.70768288",
+        "lng": "-79.34246728",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.34265491,
-          43.7073614
+          -79.34246728,
+          43.70768288
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Orangeville",
-        "addressF": "695 Riddell Road, bureau 1D",
+        "addressF": "695 Riddell Road",
         "nameE": "Elections Canada",
         "cityE": "Orangeville",
-        "addressE": "695 Riddell Road, Suite 1D",
+        "addressE": "695 Riddell Road",
         "prov": "ON",
         "pstl": "L9W4Z5",
-        "lat": "43.89617852",
-        "lng": "-80.11092557",
+        "lat": "43.89672961",
+        "lng": "-80.10960791",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.11092557,
-          43.89617852
+          -80.10960791,
+          43.89672961
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Centre Lawrence Allen",
-        "cityF": "North York",
-        "addressF": "700, avenue Lawrence Ouest, bureau 121A",
+        "cityF": "Toronto",
+        "addressF": "700 Lawrence Avenue West",
         "nameE": "Lawrence Allen Centre",
-        "cityE": "North York",
-        "addressE": "700 Lawrence Avenue West, Suite 121A",
+        "cityE": "Toronto",
+        "addressE": "700 Lawrence Avenue West",
         "prov": "ON",
         "pstl": "M6A3B4",
-        "lat": "43.71679799",
-        "lng": "-79.44707699",
+        "lat": "43.71541827",
+        "lng": "-79.44745313",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.44707699,
-          43.71679799
+          -79.44745313,
+          43.71541827
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
-        "cityF": "St Thomas",
-        "addressF": "300, rue Talbot, bureau 15",
+        "cityF": "St. Thomas",
+        "addressF": "300 Talbot Street",
         "nameE": "Grand Central Place",
-        "cityE": "St Thomas",
-        "addressE": "300 Talbot Street, Suite 15",
+        "cityE": "St. Thomas",
+        "addressE": "300 Talbot Street",
         "prov": "ON",
         "pstl": "N5P4E2",
-        "lat": "42.77876198",
-        "lng": "-81.19923699",
+        "lat": "42.77901574",
+        "lng": "-81.20001941",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.19923699,
-          42.77876198
+          -81.20001941,
+          42.77901574
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Elections Canada",
         "cityF": "Essex",
-        "addressF": "154, rue Talbot  Nord",
+        "addressF": "154 Talbot Street North",
         "nameE": "Essex Weld Solutions",
         "cityE": "Essex",
-        "addressE": "154 Talbot  Street North",
+        "addressE": "154 Talbot Street North",
         "prov": "ON",
         "pstl": "N8M2C7",
-        "lat": "42.17709271",
-        "lng": "-82.82564706",
+        "lat": "42.17733501",
+        "lng": "-82.82521668",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.82564706,
-          42.17709271
+          -82.82521668,
+          42.17733501
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Elections Canada",
-        "cityF": "Etobicoke",
-        "addressF": "401 The West Mall, bureau 500",
+        "cityF": "Toronto",
+        "addressF": "401 The West Mall",
         "nameE": "Elections Canada",
-        "cityE": "Etobicoke",
-        "addressE": "401 The West Mall, Suite 500",
+        "cityE": "Toronto",
+        "addressE": "401 The West Mall",
         "prov": "ON",
         "pstl": "M9C5J5",
-        "lat": "43.64567528",
-        "lng": "-79.56705228",
+        "lat": "43.64464815",
+        "lng": "-79.5672733",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.56705228,
-          43.64567528
+          -79.5672733,
+          43.64464815
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Etobicoke",
-        "addressF": "4195, rue Dundas Ouest",
+        "addressF": "4195 Dundas Street West",
         "nameE": "Elections Canada",
         "cityE": "Etobicoke",
         "addressE": "4195 Dundas Street West",
         "prov": "ON",
         "pstl": "M8X1Y4",
-        "lat": "43.66010938",
-        "lng": "-79.51113787",
+        "lat": "43.66049239",
+        "lng": "-79.51073905",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.51113787,
-          43.66010938
+          -79.51073905,
+          43.66049239
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
-        "cityF": "Etobicoke",
-        "addressF": "200 Ronson Drive, bureau 400",
+        "cityF": "Toronto",
+        "addressF": "200 Ronson Drive",
         "nameE": "Elections Canada",
-        "cityE": "Etobicoke",
-        "addressE": "200 Ronson Drive, Suite 400",
+        "cityE": "Toronto",
+        "addressE": "200 Ronson Drive",
         "prov": "ON",
         "pstl": "M9W5Z9",
-        "lat": "43.6940081",
-        "lng": "-79.56964087",
+        "lat": "43.69364169",
+        "lng": "-79.57068383",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.56964087,
-          43.6940081
+          -79.57068383,
+          43.69364169
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
-        "cityF": "Rockton",
+        "cityF": "Hamilton",
         "addressF": "812 Old 8 Highway",
         "nameE": "D.A. Campbell Entertainment Building",
-        "cityE": "Rockton",
+        "cityE": "Hamilton",
         "addressE": "812 Old 8 Highway",
         "prov": "ON",
         "pstl": "L0R1X0",
-        "lat": "43.30181671",
-        "lng": "-80.12844282",
+        "lat": "43.30183568",
+        "lng": "-80.12776245",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.12844282,
-          43.30181671
+          -80.12776245,
+          43.30183568
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Guelph",
-        "addressF": "292, avenue Speedvale Ouest, bureau 1",
-        "nameE": "Elections Canada",
+        "addressF": "292 Speedvale Avenue West",
+        "nameE": "Elections Canada ",
         "cityE": "Guelph",
-        "addressE": "292 Speedvale Avenue West, Suite 1",
+        "addressE": "292 Speedvale Avenue West",
         "prov": "ON",
         "pstl": "N1H1C4",
-        "lat": "43.54488499",
-        "lng": "-80.28518617",
+        "lat": "43.54503557",
+        "lng": "-80.28663294",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.28518617,
-          43.54488499
+          -80.28663294,
+          43.54503557
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Simcoe",
         "addressF": "129 Queensway Highway East",
@@ -901,94 +901,94 @@
         "addressE": "129 Queensway Highway East",
         "prov": "ON",
         "pstl": "N3Y5M7",
-        "lat": "42.851318",
-        "lng": "-80.29392791",
+        "lat": "42.85131073",
+        "lng": "-80.29386972",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.29392791,
-          42.851318
+          -80.29386972,
+          42.85131073
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Place de la passerelle",
-        "cityF": "Lindsay",
-        "addressF": "55, rue Mary Ouest, bureau 200",
+        "cityF": "Kawartha Lakes",
+        "addressF": "55 Mary Street West",
         "nameE": "Gateway Plaza",
-        "cityE": "Lindsay",
-        "addressE": "55 Mary Street West, Suite 200",
+        "cityE": "Kawartha Lakes",
+        "addressE": "55 Mary Street West",
         "prov": "ON",
-        "pstl": "K9V2N6",
-        "lat": "44.3455696",
-        "lng": "-78.73472888",
+        "pstl": "K9V5Z6",
+        "lat": "44.3456913",
+        "lng": "-78.73483947",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.73472888,
-          44.3455696
+          -78.73483947,
+          44.3456913
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Hamilton",
-        "addressF": "225, rue King William, bureau 112",
+        "addressF": "225 King William Street",
         "nameE": "Elections Canada",
         "cityE": "Hamilton",
-        "addressE": "225 King William Street, Suite 112",
+        "addressE": "225 King William Street",
         "prov": "ON",
         "pstl": "L8R1B1",
-        "lat": "43.25549509",
-        "lng": "-79.86078057",
+        "lat": "43.25528331",
+        "lng": "-79.86057317",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.86078057,
-          43.25549509
+          -79.86057317,
+          43.25528331
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
-        "cityF": "Stoney Creek",
-        "addressF": "200 Centennial  Parkway North, bureau B0414",
+        "cityF": "Hamilton",
+        "addressF": "200 Centennial Parkway North",
         "nameE": "SmartCentres",
-        "cityE": "Stoney Creek",
-        "addressE": "200 Centennial  Parkway North, Suite B0414",
+        "cityE": "Hamilton",
+        "addressE": "200 Centennial Parkway North",
         "prov": "ON",
         "pstl": "L8E4A1",
-        "lat": "43.23512749",
-        "lng": "-79.76054181",
+        "lat": "43.23517918",
+        "lng": "-79.76118959",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.76054181,
-          43.23512749
+          -79.76118959,
+          43.23517918
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Hamilton",
         "addressF": "75 Palmer Road",
@@ -997,142 +997,142 @@
         "addressE": "75 Palmer Road",
         "prov": "ON",
         "pstl": "L8T3G1",
-        "lat": "43.21542389",
-        "lng": "-79.84129324",
+        "lat": "43.21502811",
+        "lng": "-79.84185899",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.84129324,
-          43.21542389
+          -79.84185899,
+          43.21502811
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Hamilton",
-        "addressF": "659, rue Upper James, bureau E201C",
+        "addressF": "659 Upper James Street",
         "nameE": "Elections Canada",
         "cityE": "Hamilton",
-        "addressE": "659 Upper James Street, Suite E201C",
+        "addressE": "659 Upper James Street",
         "prov": "ON",
         "pstl": "L9C5R8",
-        "lat": "43.23653401",
-        "lng": "-79.87773499",
+        "lat": "43.23623565",
+        "lng": "-79.87834206",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.87773499,
-          43.23653401
+          -79.87834206,
+          43.23623565
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Madoc",
-        "addressF": "108, rue Russell",
+        "addressF": "108 Russell Street",
         "nameE": "Dugan Building",
         "cityE": "Madoc",
         "addressE": "108 Russell Street",
         "prov": "ON",
         "pstl": "K0K2K0",
-        "lat": "44.50615853",
-        "lng": "-77.47494641",
+        "lat": "44.50631981",
+        "lng": "-77.47473971",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.47494641,
-          44.50615853
+          -77.47473971,
+          44.50631981
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
-        "cityF": "Bancroft",
-        "addressF": "237, rue Hastings Nord, bureau D",
-        "nameE": "Bancroft Health Centre",
-        "cityE": "Bancroft",
-        "addressE": "237 Hastings Street North, Suite D",
-        "prov": "ON",
-        "pstl": "K0L1C0",
-        "lat": "45.07058399",
-        "lng": "-77.86260929",
-        "sitetype": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.86260929,
-          45.07058399
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
-        "nameF": "Élections Canada",
-        "cityF": "Napanee",
-        "addressF": "24, avenue Advance, bureau 1/2/3",
+        "cityF": "Greater Napanee",
+        "addressF": "24 Advance Avenue",
         "nameE": "Elections Canada",
-        "cityE": "Napanee",
-        "addressE": "24 Advance Avenue, Suite 1/2/3",
+        "cityE": "Greater Napanee",
+        "addressE": "24 Advance Avenue",
         "prov": "ON",
         "pstl": "K7R3Y6",
-        "lat": "44.2553292",
-        "lng": "-76.95557019",
+        "lat": "44.25535392",
+        "lng": "-76.95716448",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.95557019,
-          44.2553292
+          -76.95716448,
+          44.25535392
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
+        "nameF": "Élections Canada",
+        "cityF": "Bancroft",
+        "addressF": "237 Hastings Street North",
+        "nameE": "Bancroft Health Centre",
+        "cityE": "Bancroft",
+        "addressE": "237 Hastings Street North",
+        "prov": "ON",
+        "pstl": "K0L1C0",
+        "lat": "45.07172385",
+        "lng": "-77.86275038",
+        "sitetype": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.86275038,
+          45.07172385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Toronto",
-        "addressF": "2721, rue Jane",
+        "addressF": "2721 Jane Street",
         "nameE": "Jane Sheppard Mall",
         "cityE": "Toronto",
-        "addressE": "2721 Jane  Street",
+        "addressE": "2721 Jane Street",
         "prov": "ON",
         "pstl": "M3L1S3",
-        "lat": "43.74069241",
-        "lng": "-79.51325882",
+        "lat": "43.74062",
+        "lng": "-79.51350963",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.51325882,
-          43.74069241
+          -79.51350963,
+          43.74062
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Club Curling Kingcardine",
         "cityF": "Kincardine",
         "addressF": "277 Penetangore Row",
@@ -1141,94 +1141,70 @@
         "addressE": "277 Penetangore Row",
         "prov": "ON",
         "pstl": "N2Z2P6",
-        "lat": "44.16530399",
-        "lng": "-81.64757401",
+        "lat": "44.16547397",
+        "lng": "-81.648205",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.64757401,
-          44.16530399
+          -81.648205,
+          44.16547397
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
-        "cityF": "Brussels",
+        "cityF": "Huron East",
         "addressF": "800 Sports Drive",
         "nameE": "Brussels, Morris & Grey Community Centre",
-        "cityE": "Brussels",
+        "cityE": "Huron East",
         "addressE": "800 Sports Drive",
         "prov": "ON",
         "pstl": "N0G1H0",
-        "lat": "43.735077",
-        "lng": "-81.25434096",
+        "lat": "43.73649428",
+        "lng": "-81.25296875",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.25434096,
-          43.735077
+          -81.25296875,
+          43.73649428
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Kanata Entertainment Centrum",
-        "cityF": "Kanata",
-        "addressF": "8-570, avenue Kanata, bureau R-8",
+        "cityF": "Ottawa",
+        "addressF": "570 Kanata Avenue",
         "nameE": "Kanata Entertainment Centrum",
-        "cityE": "Kanata",
-        "addressE": "8-570 Kanata  Avenue, Suite R-8",
+        "cityE": "Ottawa",
+        "addressE": "570 Kanata Avenue",
         "prov": "ON",
         "pstl": "K2T1K5",
-        "lat": "45.31242159",
-        "lng": "-75.9068511",
+        "lat": "45.31168209",
+        "lng": "-75.9087515",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.9068511,
-          45.31242159
+          -75.9087515,
+          45.31168209
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
-        "nameF": "Centre de Loisirs",
-        "cityF": "Kapuskasing",
-        "addressF": "7, avenue Aurora",
-        "nameE": "Centre de Loisirs",
-        "cityE": "Kapuskasing",
-        "addressE": "7 Aurora Avenue",
-        "prov": "ON",
-        "pstl": "P5N1J6",
-        "lat": "49.41926501",
-        "lng": "-82.42990296",
-        "sitetype": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.42990296,
-          49.41926501
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Kirkland Lake",
         "addressF": "90 Government Road West",
@@ -1237,142 +1213,166 @@
         "addressE": "90 Government Road West",
         "prov": "ON",
         "pstl": "P2N2E4",
-        "lat": "48.14882502",
-        "lng": "-80.03900398",
+        "lat": "48.14859398",
+        "lng": "-80.03882515",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.03900398,
-          48.14882502
+          -80.03882515,
+          48.14859398
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
+        "nameF": "Centre de Loisirs",
+        "cityF": "Kapuskasing",
+        "addressF": "7 Aurora Avenue",
+        "nameE": "Centre de Loisirs",
+        "cityE": "Kapuskasing",
+        "addressE": "7 Aurora Avenue",
+        "prov": "ON",
+        "pstl": "P5N1J6",
+        "lat": "49.41943272",
+        "lng": "-82.43048856",
+        "sitetype": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.43048856,
+          49.41943272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Timmins",
-        "addressF": "38, rue Pine Nord, bureau 120",
+        "addressF": "38 Pine Street North",
         "nameE": "101 Business Complex",
         "cityE": "Timmins",
-        "addressE": "38 Pine Street North, Suite 120",
+        "addressE": "38 Pine Street North",
         "prov": "ON",
         "pstl": "P4N6K6",
-        "lat": "48.476813",
-        "lng": "-81.32719898",
+        "lat": "48.47648881",
+        "lng": "-81.32832271",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.32719898,
-          48.476813
+          -81.32832271,
+          48.47648881
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
-        "nameF": "Élections Canada",
-        "cityF": "Kenora",
-        "addressF": "509, rue Fourth Nord",
-        "nameE": "Ukrainian Hall",
-        "cityE": "Kenora",
-        "addressE": "509 Fourth Street North",
-        "prov": "ON",
-        "pstl": "P9N2N4",
-        "lat": "49.77025792",
-        "lng": "-94.47939513",
-        "sitetype": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -94.47939513,
-          49.77025792
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
-        "nameF": "Batiment de Patrimoine",
-        "cityF": "Red Lake",
-        "addressF": "14 Discovery  Road, bureau 3",
-        "nameE": "Discovery Centre",
-        "cityE": "Red Lake",
-        "addressE": "14 Discovery  Road, Suite 3",
-        "prov": "ON",
-        "pstl": "P0V2M0",
-        "lat": "51.01860751",
-        "lng": "-93.82114431",
-        "sitetype": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.82114431,
-          51.01860751
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Légion royale canadienne filiale 78",
         "cityF": "Sioux Lookout",
-        "addressF": "86, rue Front",
+        "addressF": "86 Front Street",
         "nameE": "Royal Canadian Legion Branch 78",
         "cityE": "Sioux Lookout",
-        "addressE": "86 Front  Street",
+        "addressE": "86 Front Street",
         "prov": "ON",
         "pstl": "P8T1A3",
-        "lat": "50.09822779",
-        "lng": "-91.92193457",
+        "lat": "50.09793787",
+        "lng": "-91.92200465",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -91.92193457,
-          50.09822779
+          -91.92200465,
+          50.09793787
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Place du Mile d'or",
         "cityF": "Dryden",
-        "addressF": "539, rue Government, bureau 5",
+        "addressF": "539 Government Street",
         "nameE": "Golden Mile Plaza",
         "cityE": "Dryden",
-        "addressE": "539  Government  Street, Suite 5",
+        "addressE": "539 Government Street",
         "prov": "ON",
         "pstl": "P8N2P6",
-        "lat": "49.78695999",
-        "lng": "-92.82128998",
+        "lat": "49.78613516",
+        "lng": "-92.82126353",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -92.82128998,
-          49.78695999
+          -92.82126353,
+          49.78613516
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
+        "nameF": "Élections Canada",
+        "cityF": "Kenora",
+        "addressF": "509 4th Street North",
+        "nameE": "Ukrainian Hall",
+        "cityE": "Kenora",
+        "addressE": "509 4th Street North",
+        "prov": "ON",
+        "pstl": "P9N2N4",
+        "lat": "49.77021235",
+        "lng": "-94.47941377",
+        "sitetype": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.47941377,
+          49.77021235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
+        "nameF": "Batiment de Patrimoine",
+        "cityF": "Red Lake",
+        "addressF": "14 Discovery Road",
+        "nameE": "Discovery Centre",
+        "cityE": "Red Lake",
+        "addressE": "14 Discovery Road",
+        "prov": "ON",
+        "pstl": "P0V2M0",
+        "lat": "51.01806957",
+        "lng": "-93.82273915",
+        "sitetype": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.82273915,
+          51.01806957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Kingston",
         "addressF": "40 Hyperion Court",
@@ -1381,262 +1381,262 @@
         "addressE": "40 Hyperion Court",
         "prov": "ON",
         "pstl": "K7K7K2",
-        "lat": "44.25726541",
-        "lng": "-76.50930333",
+        "lat": "44.25800669",
+        "lng": "-76.50984803",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.50930333,
-          44.25726541
+          -76.50984803,
+          44.25800669
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
-        "cityF": "Maple",
+        "cityF": "Vaughan",
         "addressF": "301 Barrhill Road",
         "nameE": "Elections Canada",
-        "cityE": "Maple",
+        "cityE": "Vaughan",
         "addressE": "301 Barrhill Road",
         "prov": "ON",
         "pstl": "L6A1J5",
-        "lat": "43.84735762",
-        "lng": "-79.50486703",
+        "lat": "43.84735627",
+        "lng": "-79.50374087",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.50486703,
-          43.84735762
+          -79.50374087,
+          43.84735627
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Elections Canada",
         "cityF": "Kitchener",
-        "addressF": "508 Riverbend Drive, bureau LC1",
+        "addressF": "508 Riverbend Drive",
         "nameE": "Elections Canada",
         "cityE": "Kitchener",
-        "addressE": "508 Riverbend Drive, Suite LC1",
+        "addressE": "508 Riverbend Drive",
         "prov": "ON",
         "pstl": "N2K3S2",
-        "lat": "43.47507929",
-        "lng": "-80.47870822",
+        "lat": "43.47508679",
+        "lng": "-80.47876944",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.47870822,
-          43.47507929
+          -80.47876944,
+          43.47508679
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Centre d'affaires Fischer Hallman",
         "cityF": "Kitchener",
-        "addressF": "715 Fischer-Hallman Road, bureau 203",
+        "addressF": "715 Fischer Hallman Road",
         "nameE": "Fischer Hallman Business Centre",
         "cityE": "Kitchener",
-        "addressE": "715 Fischer-Hallman Road, Suite 203",
+        "addressE": "715 Fischer Hallman Road",
         "prov": "ON",
         "pstl": "N2E4E9",
-        "lat": "43.41477011",
-        "lng": "-80.51027179",
+        "lat": "43.41448394",
+        "lng": "-80.5090152",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.51027179,
-          43.41477011
+          -80.5090152,
+          43.41448394
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Kitchener",
-        "addressF": "625 Wabanaki Drive, bureau 9",
+        "addressF": "625 Wabanaki Drive",
         "nameE": "Elections Canada",
         "cityE": "Kitchener",
-        "addressE": "625 Wabanaki Drive, Suite 9",
+        "addressE": "625 Wabanaki Drive",
         "prov": "ON",
         "pstl": "N2C2G3",
-        "lat": "43.40805331",
-        "lng": "-80.44409733",
+        "lat": "43.4082909",
+        "lng": "-80.44410695",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.44409733,
-          43.40805331
+          -80.44410695,
+          43.4082909
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
-        "cityF": "Harrowsmith",
+        "cityF": "South Frontenac",
         "addressF": "4186 Colebrook Road",
         "nameE": "Golden Links Hall",
-        "cityE": "Harrowsmith",
+        "cityE": "South Frontenac",
         "addressE": "4186 Colebrook Road",
         "prov": "ON",
         "pstl": "K0H1V0",
-        "lat": "44.40331228",
-        "lng": "-76.67932738",
+        "lat": "44.40287226",
+        "lng": "-76.67974624",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.67932738,
-          44.40331228
+          -76.67974624,
+          44.40287226
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Smiths Falls",
-        "addressF": "39, rue Chambers",
+        "addressF": "39 Chambers Street",
         "nameE": "Elections Canada",
         "cityE": "Smiths Falls",
         "addressE": "39 Chambers Street",
         "prov": "ON",
-        "pstl": "K7A4S9",
-        "lat": "44.89824699",
-        "lng": "-76.018503",
+        "pstl": "K7A2Y3",
+        "lat": "44.89886412",
+        "lng": "-76.01866815",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.018503,
-          44.89824699
+          -76.01866815,
+          44.89886412
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
-        "nameF": "Élections Canada",
-        "cityF": "Kemptville",
-        "addressF": "288 County Road 44",
-        "nameE": "Elections Canada",
-        "cityE": "Kemptville",
-        "addressE": "288 County Road 44",
-        "prov": "ON",
-        "pstl": "K0G1J0",
-        "lat": "45.02293161",
-        "lng": "-75.65489763",
-        "sitetype": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.65489763,
-          45.02293161
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Brockville",
-        "addressF": "2495, avenue Parkedale, bureau 1",
+        "addressF": "2495 Parkedale Avenue",
         "nameE": "Elections Canada",
         "cityE": "Brockville",
-        "addressE": "2495 Parkedale Avenue, Suite 1",
+        "addressE": "2495 Parkedale Avenue",
         "prov": "ON",
         "pstl": "K6V3H2",
-        "lat": "44.60202298",
-        "lng": "-75.70278998",
+        "lat": "44.60264931",
+        "lng": "-75.70240354",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.70278998,
-          44.60202298
+          -75.70240354,
+          44.60264931
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
+        "nameF": "Élections Canada",
+        "cityF": "North Grenville",
+        "addressF": "288 County 44 Road",
+        "nameE": "Elections Canada",
+        "cityE": "North Grenville",
+        "addressE": "288 County 44 Road",
+        "prov": "ON",
+        "pstl": "K0G1J0",
+        "lat": "45.02274234",
+        "lng": "-75.6542586",
+        "sitetype": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6542586,
+          45.02274234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "London",
-        "addressF": "229, rue Adelaide  Nord",
+        "addressF": "229 Adelaide Street North",
         "nameE": "Elections Canada",
         "cityE": "London",
-        "addressE": "229 Adelaide  Street North",
+        "addressE": "229 Adelaide Street North",
         "prov": "ON",
         "pstl": "N6B3H3",
-        "lat": "42.98336269",
-        "lng": "-81.22988047",
+        "lat": "42.98368193",
+        "lng": "-81.22930722",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.22988047,
-          42.98336269
+          -81.22930722,
+          42.98368193
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "London",
-        "addressF": "340, rue Saskatoon",
+        "addressF": "340 Saskatoon Street",
         "nameE": "Elections Canada",
         "cityE": "London",
         "addressE": "340 Saskatoon Street",
         "prov": "ON",
         "pstl": "N5W4R3",
-        "lat": "42.9984453",
-        "lng": "-81.18734852",
+        "lat": "42.99914002",
+        "lng": "-81.18801327",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.18734852,
-          42.9984453
+          -81.18801327,
+          42.99914002
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Centre commercial de Westmount",
         "cityF": "London",
         "addressF": "785 Wonderland Road South",
@@ -1645,70 +1645,70 @@
         "addressE": "785 Wonderland Road South",
         "prov": "ON",
         "pstl": "N6K1M6",
-        "lat": "42.9490344",
-        "lng": "-81.29433622",
+        "lat": "42.94805412",
+        "lng": "-81.28928236",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.29433622,
-          42.9490344
+          -81.28928236,
+          42.94805412
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Centre des Art Medicaux Boxgrove",
         "cityF": "Markham",
-        "addressF": "110 Copper Creek Drive, bureau 400",
+        "addressF": "110 Copper Creek Drive",
         "nameE": "Boxgrove Medical Arts Centre",
         "cityE": "Markham",
-        "addressE": "110 Copper Creek Drive, Suite 400",
+        "addressE": "110 Copper Creek Drive",
         "prov": "ON",
         "pstl": "L6B0P9",
-        "lat": "43.86900242",
-        "lng": "-79.22898733",
+        "lat": "43.86834064",
+        "lng": "-79.22770385",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.22898733,
-          43.86900242
+          -79.22770385,
+          43.86834064
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Markham",
-        "addressF": "191, rue McNabb",
+        "addressF": "191 McNabb Street",
         "nameE": "Toshiba Building",
         "cityE": "Markham",
         "addressE": "191 McNabb Street",
         "prov": "ON",
         "pstl": "L3R8H2",
-        "lat": "43.83413869",
-        "lng": "-79.32238939",
+        "lat": "43.83433239",
+        "lng": "-79.32189077",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.32238939,
-          43.83413869
+          -79.32189077,
+          43.83433239
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Markham",
         "addressF": "8 The Seneca Way",
@@ -1717,190 +1717,190 @@
         "addressE": "8 The Seneca Way",
         "prov": "ON",
         "pstl": "L3R5Y1",
-        "lat": "43.8502228",
-        "lng": "-79.36725797",
+        "lat": "43.84965124",
+        "lng": "-79.36564192",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.36725797,
-          43.8502228
+          -79.36564192,
+          43.84965124
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Amy's Restaurant",
-        "cityF": "Strathroy",
+        "cityF": "Adelaide-Metcalfe",
         "addressF": "28537 Centre Road",
         "nameE": "Amy's Restaurant",
-        "cityE": "Strathroy",
+        "cityE": "Adelaide-Metcalfe",
         "addressE": "28537 Centre Road",
         "prov": "ON",
         "pstl": "N7G3H6",
-        "lat": "42.98059448",
-        "lng": "-81.63190412",
+        "lat": "42.98068528",
+        "lng": "-81.6320635",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.63190412,
-          42.98059448
+          -81.6320635,
+          42.98068528
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Milton",
-        "addressF": "410, avenue Steeles Est",
+        "addressF": "410 Steeles Avenue East",
         "nameE": "Elections Canada",
         "cityE": "Milton",
         "addressE": "410 Steeles Avenue East",
         "prov": "ON",
         "pstl": "L9T1Y4",
-        "lat": "43.52505391",
-        "lng": "-79.88944559",
+        "lat": "43.52576559",
+        "lng": "-79.8892625",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.88944559,
-          43.52505391
+          -79.8892625,
+          43.52576559
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Centre Sussex",
         "cityF": "Mississauga",
-        "addressF": "50 Burnhamthorpe Road West, bureau 600",
+        "addressF": "50 Burnhamthorpe Road West",
         "nameE": "Sussex Centre",
         "cityE": "Mississauga",
-        "addressE": "50 Burnhamthorpe Road West, Suite 600",
+        "addressE": "50 Burnhamthorpe Road West",
         "prov": "ON",
         "pstl": "L5B3C2",
-        "lat": "43.59182202",
-        "lng": "-79.63607147",
+        "lat": "43.59259834",
+        "lng": "-79.63615854",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.63607147,
-          43.59182202
+          -79.63615854,
+          43.59259834
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Mississauga",
-        "addressF": "1024, rue Dundas Est, bureau 1",
+        "addressF": "1024 Dundas Street East",
         "nameE": "Ahmed Group",
         "cityE": "Mississauga",
-        "addressE": "1024 Dundas Street East, Suite 1",
+        "addressE": "1024 Dundas Street East",
         "prov": "ON",
         "pstl": "L4Y2B8",
-        "lat": "43.60119009",
-        "lng": "-79.59185903",
+        "lat": "43.60174224",
+        "lng": "-79.59224064",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.59185903,
-          43.60119009
+          -79.59224064,
+          43.60174224
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Oakville",
-        "addressF": "2295 Bristol  Circle, bureau 204",
+        "addressF": "2295 Bristol Circle",
         "nameE": "Elections Canada",
         "cityE": "Oakville",
-        "addressE": "2295 Bristol  Circle, Suite 204",
+        "addressE": "2295 Bristol Circle",
         "prov": "ON",
         "pstl": "L6H6P8",
-        "lat": "43.51635769",
-        "lng": "-79.67454726",
+        "lat": "43.515559",
+        "lng": "-79.67546416",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.67454726,
-          43.51635769
+          -79.67546416,
+          43.515559
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
-        "nameF": "Village Sherwood",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
+        "nameF": "Village Sherwood (Lower Floor)",
         "cityF": "Mississauga",
-        "addressF": "2225 Erin Mills Parkway, bureau 183",
-        "nameE": "Sherwood Village",
+        "addressF": "2225 Erin Mills Parkway",
+        "nameE": "Sherwood Village (Lower Floor)",
         "cityE": "Mississauga",
-        "addressE": "2225 Erin Mills Parkway, Suite 183",
+        "addressE": "2225 Erin Mills Parkway",
         "prov": "ON",
-        "pstl": "L5K1T9",
-        "lat": "43.53022999",
-        "lng": "-79.65345076",
+        "pstl": "L5K1T8",
+        "lat": "43.52858467",
+        "lng": "-79.65413142",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.65345076,
-          43.53022999
+          -79.65413142,
+          43.52858467
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "MAPCO CANADA ENTERPRISES INC.",
         "cityF": "Mississauga",
-        "addressF": "200, boulevard Matheson Ouest, bureau 101",
+        "addressF": "200 Matheson Boulevard West",
         "nameE": "MAPCO CANADA ENTERPRISES INC.",
         "cityE": "Mississauga",
-        "addressE": "200 Matheson Boulevard West, Suite 101",
+        "addressE": "200 Matheson Boulevard West",
         "prov": "ON",
         "pstl": "L5R3L7",
-        "lat": "43.6164413",
-        "lng": "-79.67618986",
+        "lat": "43.61569003",
+        "lng": "-79.67713626",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.67618986,
-          43.6164413
+          -79.67713626,
+          43.61569003
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Mississauga",
         "addressF": "2470 Milltower Court",
@@ -1909,214 +1909,190 @@
         "addressE": "2470 Milltower Court",
         "prov": "ON",
         "pstl": "L5N7W5",
-        "lat": "43.59722478",
-        "lng": "-79.75623829",
+        "lat": "43.59687448",
+        "lng": "-79.7569548",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.75623829,
-          43.59722478
+          -79.7569548,
+          43.59687448
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
-        "cityF": "Nepean",
+        "cityF": "Ottawa",
         "addressF": "595 Moodie Drive",
         "nameE": "D. Aubrey Moodie Intermediate  School",
-        "cityE": "Nepean",
+        "cityE": "Ottawa",
         "addressE": "595 Moodie Drive",
         "prov": "ON",
         "pstl": "K2H8A8",
-        "lat": "45.3075451",
-        "lng": "-75.82461212",
+        "lat": "45.3106421",
+        "lng": "-75.82588334",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.82461212,
-          45.3075451
+          -75.82588334,
+          45.3106421
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Centre Bayview",
         "cityF": "Aurora",
-        "addressF": "150, boulevard Hollidge, bureau 9",
+        "addressF": "150 Hollidge Boulevard",
         "nameE": "Bayview Centre",
         "cityE": "Aurora",
-        "addressE": "150 Hollidge Boulevard, Suite 9",
+        "addressE": "150 Hollidge Boulevard",
         "prov": "ON",
         "pstl": "L4G8A3",
-        "lat": "44.01281769",
-        "lng": "-79.44733138",
+        "lat": "44.01227257",
+        "lng": "-79.4478296",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.44733138,
-          44.01281769
+          -79.4478296,
+          44.01227257
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
-        "cityF": "Alliston",
-        "addressF": "497, rue Victoria Est",
+        "cityF": "New Tecumseth",
+        "addressF": "497 Victoria Street East",
         "nameE": "Red Pine Inn and Conference Centre",
-        "cityE": "Alliston",
-        "addressE": "497  Victoria Street East",
+        "cityE": "New Tecumseth",
+        "addressE": "497 Victoria Street East",
         "prov": "ON",
-        "pstl": "L9R1T9",
-        "lat": "44.15836219",
-        "lng": "-79.84371594",
+        "pstl": "L9R1J8",
+        "lat": "44.15932622",
+        "lng": "-79.84387684",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.84371594,
-          44.15836219
+          -79.84387684,
+          44.15932622
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
-        "cityF": "Holland Landing",
-        "addressF": "18667, rue Old Yonge",
+        "cityF": "East Gwillimbury",
+        "addressF": "18667 Old Yonge Street",
         "nameE": "Newmarket Inn",
-        "cityE": "Holland Landing",
+        "cityE": "East Gwillimbury",
         "addressE": "18667 Old Yonge Street",
         "prov": "ON",
         "pstl": "L9N0J2",
-        "lat": "44.08357808",
-        "lng": "-79.48725143",
+        "lat": "44.08340523",
+        "lng": "-79.48728024",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.48725143,
-          44.08357808
+          -79.48728024,
+          44.08340523
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Niagara Falls",
-        "addressF": "4536 Portage Road, bureau 1",
+        "addressF": "4536 Portage Road",
         "nameE": "Elections Canada",
         "cityE": "Niagara Falls",
-        "addressE": "4536 Portage Road, Suite 1",
+        "addressE": "4536 Portage Road",
         "prov": "ON",
         "pstl": "L2E6A8",
-        "lat": "43.10866301",
-        "lng": "-79.09494502",
+        "lat": "43.10894329",
+        "lng": "-79.09627498",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.09494502,
-          43.10866301
+          -79.09627498,
+          43.10894329
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Port Colborne",
-        "addressF": "177, rue King",
+        "addressF": "177 King Street",
         "nameE": "Elections Canada",
         "cityE": "Port Colborne",
         "addressE": "177 King Street",
         "prov": "ON",
         "pstl": "L3K4G5",
-        "lat": "42.88466951",
-        "lng": "-79.25071088",
+        "lat": "42.88469184",
+        "lng": "-79.25120888",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.25071088,
-          42.88466951
+          -79.25120888,
+          42.88469184
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Beamsville",
-        "addressF": "4317, avenue Central",
+        "addressF": "4317 Central Avenue",
         "nameE": "Elections Canada (former Beamsville Secondary School)",
         "cityE": "Beamsville",
         "addressE": "4317 Central Avenue",
         "prov": "ON",
         "pstl": "L3J0N9",
-        "lat": "43.16809569",
-        "lng": "-79.47235438",
+        "lat": "43.16740825",
+        "lng": "-79.47361759",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.47235438,
-          43.16809569
+          -79.47361759,
+          43.16740825
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
-        "nameF": "Élections Canada",
-        "cityF": "New Liskeard",
-        "addressF": "998009 Highway 11",
-        "nameE": "Quality Inn",
-        "cityE": "New Liskeard",
-        "addressE": "998009 Highway 11",
-        "prov": "ON",
-        "pstl": "P0J1P0",
-        "lat": "47.53831439",
-        "lng": "-79.67439052",
-        "sitetype": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.67439052,
-          47.53831439
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "North Bay",
         "addressF": "320 Ski Club Road",
@@ -2125,238 +2101,262 @@
         "addressE": "320 Ski Club Road",
         "prov": "ON",
         "pstl": "P1B7R2",
-        "lat": "46.33520602",
-        "lng": "-79.45016497",
+        "lat": "46.33520397",
+        "lng": "-79.45031274",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.45016497,
-          46.33520602
+          -79.45031274,
+          46.33520397
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
+        "nameF": "Élections Canada",
+        "cityF": "Temiskaming Shores",
+        "addressF": "998009 Highway 11",
+        "nameE": "Quality Inn",
+        "cityE": "Temiskaming Shores",
+        "addressE": "998009 Highway 11",
+        "prov": "ON",
+        "pstl": "P0J1P0",
+        "lat": "47.53813876",
+        "lng": "-79.67375581",
+        "sitetype": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.67375581,
+          47.53813876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Elections Canada",
         "cityF": "Cobourg",
-        "addressF": "609, rue William, bureau 8",
+        "addressF": "609 William Street",
         "nameE": "Elections Canada",
         "cityE": "Cobourg",
-        "addressE": "609 William Street, Suite 8",
+        "addressE": "609 William Street",
         "prov": "ON",
-        "pstl": "K9A3A5",
-        "lat": "43.96509901",
-        "lng": "-78.18444403",
+        "pstl": "K9A3A6",
+        "lat": "43.96544568",
+        "lng": "-78.18431592",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.18444403,
-          43.96509901
+          -78.18431592,
+          43.96544568
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Oakville",
-        "addressF": "710 Suite 301 and 310, Dorval Drive",
+        "addressF": "710 Dorval Drive",
         "nameE": "Elections Canada",
         "cityE": "Oakville",
-        "addressE": "710 Suite 301 and 310, Dorval Drive",
+        "addressE": "710 Dorval Drive",
         "prov": "ON",
         "pstl": "L6K3V7",
-        "lat": "43.43833498",
-        "lng": "-79.68398349",
+        "lat": "43.44440465",
+        "lng": "-79.69710678",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.68398349,
-          43.43833498
+          -79.69710678,
+          43.44440465
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Oakville",
         "addressF": "1151 Bronte Road",
-        "nameE": "Halton Region Building",
+        "nameE": "Elections Canada",
         "cityE": "Oakville",
         "addressE": "1151 Bronte Road",
         "prov": "ON",
         "pstl": "L6M3L1",
-        "lat": "43.414348",
-        "lng": "-79.74439458",
+        "lat": "43.41286108",
+        "lng": "-79.74473681",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.74439458,
-          43.414348
+          -79.74473681,
+          43.41286108
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Centre d'achat place d'Orléans",
-        "cityF": "Orléans",
-        "addressF": "110 Place d'Orléans Drive, bureau 2017",
+        "cityF": "Ottawa",
+        "addressF": "110 Place d'Orléans Drive",
         "nameE": "Place d'Orléans Shopping Centre",
-        "cityE": "Orléans",
-        "addressE": "110 Place d'Orléans Drive, Suite 2017",
+        "cityE": "Ottawa",
+        "addressE": "110 Place d'Orléans Drive",
         "prov": "ON",
         "pstl": "K1C2L9",
-        "lat": "45.478531",
-        "lng": "-75.51528614",
+        "lat": "45.47952352",
+        "lng": "-75.51320657",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.51528614,
-          45.478531
+          -75.51320657,
+          45.47952352
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Oshawa",
         "addressF": "149 Midtown Drive",
-        "nameE": "Midtown Centre",
+        "nameE": "Midtown Centre ",
         "cityE": "Oshawa",
         "addressE": "149 Midtown Drive",
         "prov": "ON",
         "pstl": "L1J3Z7",
-        "lat": "43.8950711",
-        "lng": "-78.86838847",
+        "lat": "43.89546998",
+        "lng": "-78.86772307",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.86838847,
-          43.8950711
+          -78.86772307,
+          43.89546998
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Tour de bureaux du pont Billings",
         "cityF": "Ottawa",
-        "addressF": "2323 Riverside Drive, bureau 500",
+        "addressF": "2323 Riverside Drive",
         "nameE": "Billings Bridge Office Tower",
         "cityE": "Ottawa",
-        "addressE": "2323 Riverside Drive, Suite 500",
+        "addressE": "2323 Riverside Drive",
         "prov": "ON",
         "pstl": "K1H8L5",
-        "lat": "45.3867332",
-        "lng": "-75.67933599",
+        "lat": "45.38628868",
+        "lng": "-75.68105628",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.67933599,
-          45.3867332
+          -75.68105628,
+          45.38628868
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Ottawa",
-        "addressF": "2210, rue Bank, bureau B003",
+        "addressF": "2210 Bank Street",
         "nameE": "Elections Canada",
         "cityE": "Ottawa",
-        "addressE": "2210 Bank  Street, Suite B003",
+        "addressE": "2210 Bank Street",
         "prov": "ON",
         "pstl": "K1V1J5",
-        "lat": "45.35520588",
-        "lng": "-75.65448139",
+        "lat": "45.35661465",
+        "lng": "-75.65396614",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.65448139,
-          45.35520588
+          -75.65396614,
+          45.35661465
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Édifice Trillium",
         "cityF": "Ottawa",
-        "addressF": "214 Montreal Road, bureau 402",
+        "addressF": "214 Montreal Road",
         "nameE": "Trillium Building",
         "cityE": "Ottawa",
-        "addressE": "214 Montreal Road, Suite 402",
+        "addressE": "214 Montreal Road",
         "prov": "ON",
         "pstl": "K1L8L8",
-        "lat": "45.43513219",
-        "lng": "-75.66233758",
+        "lat": "45.43545546",
+        "lng": "-75.66248019",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.66233758,
-          45.43513219
+          -75.66248019,
+          45.43545546
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Ottawa",
-        "addressF": "2625, avenue Draper",
+        "addressF": "2625 Draper Avenue",
         "nameE": "Elections Canada",
         "cityE": "Ottawa",
         "addressE": "2625 Draper Avenue",
         "prov": "ON",
         "pstl": "K2H7A1",
-        "lat": "45.34261249",
-        "lng": "-75.79085512",
+        "lat": "45.3416704",
+        "lng": "-75.79029942",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.79085512,
-          45.34261249
+          -75.79029942,
+          45.3416704
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Woodstock",
         "addressF": "690 Sutherland Drive",
@@ -2365,22 +2365,22 @@
         "addressE": "690 Sutherland Drive",
         "prov": "ON",
         "pstl": "N4S4Y5",
-        "lat": "43.13591572",
-        "lng": "-80.74949809",
+        "lat": "43.13594807",
+        "lng": "-80.75121254",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.74949809,
-          43.13591572
+          -80.75121254,
+          43.13594807
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Parry Sound",
         "addressF": "1 College Drive",
@@ -2389,382 +2389,382 @@
         "addressE": "1 College Drive",
         "prov": "ON",
         "pstl": "P2A0A9",
-        "lat": "45.36179582",
-        "lng": "-80.03790628",
+        "lat": "45.3617313",
+        "lng": "-80.03949352",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.03790628,
-          45.36179582
+          -80.03949352,
+          45.3617313
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Huntsville",
-        "addressF": "321 Muskoka 3 N Road",
+        "addressF": "321 Muskoka 3 Road North",
         "nameE": "Elections Canada",
         "cityE": "Huntsville",
-        "addressE": "321 Muskoka 3 N Road",
+        "addressE": "321 Muskoka 3 Road North",
         "prov": "ON",
         "pstl": "P1H1C4",
-        "lat": "45.33770929",
-        "lng": "-79.20283772",
+        "lat": "45.33815979",
+        "lng": "-79.20280158",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.20283772,
-          45.33770929
+          -79.20280158,
+          45.33815979
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
+        "nameF": "Saint Joseph Roman Catholic Church",
+        "cityF": "North Perth",
+        "addressF": "1025 Wallace Avenue North",
+        "nameE": "St. Joseph's Roman Catholic Church",
+        "cityE": "North Perth",
+        "addressE": "1025 Wallace Avenue North",
+        "prov": "ON",
+        "pstl": "N4W1M6",
+        "lat": "43.74273017",
+        "lng": "-80.94512887",
+        "sitetype": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.94512887,
+          43.74273017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Stratford",
-        "addressF": "658, rue Erie",
+        "addressF": "658 Erie Street",
         "nameE": "Elections Canada",
         "cityE": "Stratford",
         "addressE": "658 Erie Street",
         "prov": "ON",
         "pstl": "N5A2P1",
-        "lat": "43.3566663",
-        "lng": "-80.99646727",
+        "lat": "43.35629267",
+        "lng": "-80.99561722",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.99646727,
-          43.3566663
+          -80.99561722,
+          43.35629267
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
-        "nameF": "Saint Joseph Roman Catholic Church",
-        "cityF": "Listowel",
-        "addressF": "1025, avenue Wallace Nord",
-        "nameE": "Saint Joseph Roman Catholic Church",
-        "cityE": "Listowel",
-        "addressE": "1025 Wallace Avenue North",
-        "prov": "ON",
-        "pstl": "N4W1M6",
-        "lat": "43.74434642",
-        "lng": "-80.94312542",
-        "sitetype": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.94312542,
-          43.74434642
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élection Canada",
         "cityF": "Peterborough",
-        "addressF": "360, rue George Nord, bureau 21",
+        "addressF": "360 George Street North",
         "nameE": "Elections Canada",
         "cityE": "Peterborough",
-        "addressE": "360 George Street North, Suite 21",
+        "addressE": "360 George Street North",
         "prov": "ON",
         "pstl": "K9H7E7",
-        "lat": "44.30449031",
-        "lng": "-78.31973867",
+        "lat": "44.30401204",
+        "lng": "-78.31963701",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.31973867,
-          44.30449031
+          -78.31963701,
+          44.30401204
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Pickering",
-        "addressF": "1550 Kingston Road, bureau 313",
+        "addressF": "1550 Kingston Road",
         "nameE": "First Pickering Place Atrium",
         "cityE": "Pickering",
-        "addressE": "1550 Kingston Road, Suite 313",
+        "addressE": "1550 Kingston Road",
         "prov": "ON",
         "pstl": "L1V1C3",
-        "lat": "43.84406998",
-        "lng": "-79.081682",
+        "lat": "43.84410212",
+        "lng": "-79.07975378",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.081682,
-          43.84406998
+          -79.07975378,
+          43.84410212
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
-        "nameF": "Centre d'achat Hawkesbury",
-        "cityF": "Hawkesbury",
-        "addressF": "400, avenue Spence, bureau 106",
-        "nameE": "Hawkesbury Mall",
-        "cityE": "Hawkesbury",
-        "addressE": "400 Spence  Avenue, Suite 106",
-        "prov": "ON",
-        "pstl": "K6A2Y3",
-        "lat": "45.59855701",
-        "lng": "-74.6117008",
-        "sitetype": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.6117008,
-          45.59855701
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
-        "cityF": "Rockland",
-        "addressF": "860, rue Caron, bureau 4",
+        "cityF": "Clarence-Rockland",
+        "addressF": "860 Caron Street",
         "nameE": "Elections Canada",
-        "cityE": "Rockland",
-        "addressE": "860 Caron Street, Suite 4",
+        "cityE": "Clarence-Rockland",
+        "addressE": "860 Caron Street",
         "prov": "ON",
         "pstl": "K4K1H1",
-        "lat": "45.55204499",
-        "lng": "-75.275585",
+        "lat": "45.55225635",
+        "lng": "-75.27533538",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.275585,
-          45.55204499
+          -75.27533538,
+          45.55225635
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
+        "nameF": "Centre d'achat Hawkesbury",
+        "cityF": "Hawkesbury",
+        "addressF": "400 Spence Avenue",
+        "nameE": "Hawkesbury Mall",
+        "cityE": "Hawkesbury",
+        "addressE": "400 Spence Avenue",
+        "prov": "ON",
+        "pstl": "K6A2Y3",
+        "lat": "45.59873161",
+        "lng": "-74.61209419",
+        "sitetype": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.61209419,
+          45.59873161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Elections Canada",
         "cityF": "Richmond Hill",
-        "addressF": "68B Leek Crescent, bureau 201",
+        "addressF": "68 Leek Crescent",
         "nameE": "68B Leek Crescent",
         "cityE": "Richmond Hill",
-        "addressE": "68B Leek Crescent, Suite 201",
+        "addressE": "68 Leek Crescent",
         "prov": "ON",
         "pstl": "L4B1H1",
-        "lat": "43.86050962",
-        "lng": "-79.3779718",
+        "lat": "43.86031105",
+        "lng": "-79.37748806",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.3779718,
-          43.86050962
+          -79.37748806,
+          43.86031105
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Sarnia",
-        "addressF": "275, rue Wellington",
+        "addressF": "275 Wellington Street",
         "nameE": "Elections Canada",
         "cityE": "Sarnia",
         "addressE": "275 Wellington Street",
         "prov": "ON",
         "pstl": "N7T1H1",
-        "lat": "42.96804799",
-        "lng": "-82.40144196",
+        "lat": "42.9685761",
+        "lng": "-82.40130655",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.40144196,
-          42.96804799
+          -82.40130655,
+          42.9685761
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
-        "nameF": "Élections Canada",
-        "cityF": "Elliot Lake",
-        "addressF": "18 Mary Walk",
-        "nameE": "Elections Canada",
-        "cityE": "Elliot Lake",
-        "addressE": "18 Mary Walk",
-        "prov": "ON",
-        "pstl": "P5A2A1",
-        "lat": "47.99486559",
-        "lng": "-84.78029892",
-        "sitetype": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.78029892,
-          47.99486559
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
-        "nameF": "Élections Canada",
-        "cityF": "Wawa",
-        "addressF": "3, rue Maple",
-        "nameE": "Elections Canada",
-        "cityE": "Wawa",
-        "addressE": "3 Maple  Street",
-        "prov": "ON",
-        "pstl": "P0S1K0",
-        "lat": "46.38696481",
-        "lng": "-82.64870702",
-        "sitetype": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.64870702,
-          46.38696481
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Sault Ste. Marie",
-        "addressF": "475, rue Pim",
+        "addressF": "475 Pim Street",
         "nameE": "Elections Canada",
         "cityE": "Sault Ste. Marie",
         "addressE": "475 Pim Street",
         "prov": "ON",
         "pstl": "P6B2V3",
-        "lat": "46.520859",
-        "lng": "-84.31944968",
+        "lat": "46.52148877",
+        "lng": "-84.31937649",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -84.31944968,
-          46.520859
+          -84.31937649,
+          46.52148877
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
+        "nameF": "Élections Canada",
+        "cityF": "Elliot Lake",
+        "addressF": "18 Mary Walk",
+        "nameE": "Elections Canada ",
+        "cityE": "Elliot Lake",
+        "addressE": "18 Mary Walk",
+        "prov": "ON",
+        "pstl": "P5A1Z9",
+        "lat": "46.38708351",
+        "lng": "-82.64850456",
+        "sitetype": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.64850456,
+          46.38708351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
+        "nameF": "Élections Canada",
+        "cityF": "Wawa",
+        "addressF": "3 Maple Street",
+        "nameE": "Elections Canada ",
+        "cityE": "Wawa",
+        "addressE": "3 Maple Street",
+        "prov": "ON",
+        "pstl": "P0S1K0",
+        "lat": "47.99476492",
+        "lng": "-84.78004728",
+        "sitetype": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.78004728,
+          47.99476492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Toronto",
-        "addressF": "3550, avenue Victoria Park, bureau 500",
+        "addressF": "3550 Victoria Park Avenue",
         "nameE": "Elections Canada",
         "cityE": "Toronto",
-        "addressE": "3550 Victoria Park Avenue, Suite 500",
+        "addressE": "3550 Victoria Park Avenue",
         "prov": "ON",
         "pstl": "M2H2N5",
-        "lat": "43.8058957",
-        "lng": "-79.33743373",
+        "lat": "43.80603",
+        "lng": "-79.33719538",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.33743373,
-          43.8058957
+          -79.33719538,
+          43.80603
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Elections Canada",
-        "cityF": "Scarborough",
-        "addressF": "1510 Birchmount Road, bureau 219",
+        "cityF": "Toronto",
+        "addressF": "1510 Birchmount Road",
         "nameE": "Elections Canada",
-        "cityE": "Scarborough",
-        "addressE": "1510 Birchmount Road, Suite 219",
+        "cityE": "Toronto",
+        "addressE": "1510 Birchmount Road",
         "prov": "ON",
         "pstl": "M1P2G6",
-        "lat": "43.75811252",
-        "lng": "-79.29092708",
+        "lat": "43.75831814",
+        "lng": "-79.29072487",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.29092708,
-          43.75811252
+          -79.29072487,
+          43.75831814
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
-        "cityF": "Scarborough",
+        "cityF": "Toronto",
         "addressF": "1333 Neilson Road",
         "nameE": "Malvern Medical Arts",
-        "cityE": "Scarborough",
+        "cityE": "Toronto",
         "addressE": "1333 Neilson Road",
         "prov": "ON",
-        "pstl": "M1B4V9",
-        "lat": "43.80850582",
-        "lng": "-79.21963011",
+        "pstl": "M1B4Y9",
+        "lat": "43.80816526",
+        "lng": "-79.21995794",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.21963011,
-          43.80850582
+          -79.21995794,
+          43.80816526
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Toronto",
         "addressF": "2329 Brimley Road",
@@ -2773,70 +2773,70 @@
         "addressE": "2329 Brimley Road",
         "prov": "ON",
         "pstl": "M1S3L6",
-        "lat": "43.79772502",
-        "lng": "-79.27242101",
+        "lat": "43.79717674",
+        "lng": "-79.27225119",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.27242101,
-          43.79772502
+          -79.27225119,
+          43.79717674
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Toronto",
-        "addressF": "2851, avenue Eglinton Est",
+        "addressF": "2851 Eglinton Avenue East",
         "nameE": "Elections Canada",
         "cityE": "Toronto",
         "addressE": "2851 Eglinton Avenue East",
         "prov": "ON",
         "pstl": "M1J2E2",
-        "lat": "43.73731421",
-        "lng": "-79.2424599",
+        "lat": "43.73809052",
+        "lng": "-79.24166522",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.2424599,
-          43.73731421
+          -79.24166522,
+          43.73809052
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Global Kingdom Church",
-        "cityF": "Scarborough",
+        "cityF": "Toronto",
         "addressF": "1250 Markham Road",
         "nameE": "Global Kingdom Church",
-        "cityE": "Scarborough",
+        "cityE": "Toronto",
         "addressE": "1250 Markham Road",
         "prov": "ON",
         "pstl": "M1H2Y9",
-        "lat": "43.77911811",
-        "lng": "-79.23359117",
+        "lat": "43.77882788",
+        "lng": "-79.2326985",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.23359117,
-          43.77911811
+          -79.2326985,
+          43.77882788
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Wasaga Beach",
         "addressF": "425 River Road West",
@@ -2845,334 +2845,334 @@
         "addressE": "425 River Road West",
         "prov": "ON",
         "pstl": "L9Z2X2",
-        "lat": "44.5288887",
-        "lng": "-79.98935989",
+        "lat": "44.52878434",
+        "lng": "-79.98957364",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.98935989,
-          44.5288887
+          -79.98957364,
+          44.52878434
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
+        "nameF": "Élections Canada",
+        "cityF": "Orillia",
+        "addressF": "210 Memorial Avenue",
+        "nameE": "Memorial Plaza",
+        "cityE": "Orillia",
+        "addressE": "210 Memorial Avenue",
+        "prov": "ON",
+        "pstl": "L3V7V1",
+        "lat": "44.59702515",
+        "lng": "-79.42300579",
+        "sitetype": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.42300579,
+          44.59702515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Midland",
-        "addressF": "877, rue King",
+        "addressF": "877 King Street",
         "nameE": "Hampton Inn by Hilton",
         "cityE": "Midland",
         "addressE": "877 King Street",
         "prov": "ON",
         "pstl": "L4R0B7",
-        "lat": "44.733506",
-        "lng": "-79.87031801",
+        "lat": "44.73347422",
+        "lng": "-79.8704912",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.87031801,
-          44.733506
+          -79.8704912,
+          44.73347422
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
-        "nameF": "Élections Canada",
-        "cityF": "Orillia",
-        "addressF": "210, avenue Memorial, bureau 128",
-        "nameE": "Memorial Plaza",
-        "cityE": "Orillia",
-        "addressE": "210 Memorial Avenue, Suite 128",
-        "prov": "ON",
-        "pstl": "L3V7V1",
-        "lat": "44.59691799",
-        "lng": "-79.42380397",
-        "sitetype": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.42380397,
-          44.59691799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Toronto",
-        "addressF": "123, rue Queen Ouest",
+        "addressF": "123 Queen Street West",
         "nameE": "Sheraton Centre Toronto Hotel",
         "cityE": "Toronto",
         "addressE": "123 Queen Street West",
         "prov": "ON",
         "pstl": "M5H3M9",
-        "lat": "43.6514067",
-        "lng": "-79.38316003",
+        "lat": "43.65146546",
+        "lng": "-79.38367535",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.38316003,
-          43.6514067
+          -79.38367535,
+          43.65146546
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "St. Catharines",
-        "addressF": "585, rue Niagara",
+        "addressF": "585 Niagara Street",
         "nameE": "Greek Community of Niagara",
         "cityE": "St. Catharines",
         "addressE": "585 Niagara Street",
         "prov": "ON",
         "pstl": "L2M3P6",
-        "lat": "43.1996955",
-        "lng": "-79.22401686",
+        "lat": "43.20023283",
+        "lng": "-79.22277877",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.22401686,
-          43.1996955
+          -79.22277877,
+          43.20023283
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "DEV hôtel et centre de conférences",
         "cityF": "Cornwall",
-        "addressF": "1950 Montreal Road, bureau A119",
+        "addressF": "1950 Montreal Road",
         "nameE": "DEV Hotel and Conference Center",
         "cityE": "Cornwall",
-        "addressE": "1950 Montreal Road, Suite A119",
+        "addressE": "1950 Montreal Road",
         "prov": "ON",
         "pstl": "K6H6L2",
-        "lat": "45.028486",
-        "lng": "-74.681528",
+        "lat": "45.02853676",
+        "lng": "-74.68170801",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.681528,
-          45.028486
+          -74.68170801,
+          45.02853676
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
-        "cityF": "Sudbury",
-        "addressF": "79, rue Durham",
+        "cityF": "Greater Sudbury / Grand Sudbury",
+        "addressF": "79 Durham Street",
         "nameE": "Elections Canada",
-        "cityE": "Sudbury",
-        "addressE": "79 Durham  Street",
+        "cityE": "Greater Sudbury / Grand Sudbury",
+        "addressE": "79 Durham Street",
         "prov": "ON",
         "pstl": "P3E3M5",
-        "lat": "46.49195641",
-        "lng": "-80.99526011",
+        "lat": "46.49216469",
+        "lng": "-80.9950508",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.99526011,
-          46.49195641
+          -80.9950508,
+          46.49216469
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
-        "cityF": "Sturgeon Falls",
-        "addressF": "12006 Highway 17 East, bureau 7",
-        "nameE": "Elections Canada",
-        "cityE": "Sturgeon Falls",
-        "addressE": "12006 Highway 17 East, Suite 7",
-        "prov": "ON",
-        "pstl": "P2B3K8",
-        "lat": "46.36551829",
-        "lng": "-79.91212359",
-        "sitetype": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.91212359,
-          46.36551829
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
-        "nameF": "Élections Canada",
-        "cityF": "Chelmsford",
-        "addressF": "4764 Regional Road 15, bureau 21",
+        "cityF": "Greater Sudbury / Grand Sudbury",
+        "addressF": "4764 Municipal 15 Road",
         "nameE": "Place Bonaventure Mall",
-        "cityE": "Chelmsford",
-        "addressE": "4764 Regional Road 15, Suite 21",
+        "cityE": "Greater Sudbury / Grand Sudbury",
+        "addressE": "4764 Municipal 15 Road",
         "prov": "ON",
         "pstl": "P0M1L0",
-        "lat": "46.56933819",
-        "lng": "-81.18547336",
+        "lat": "46.57106937",
+        "lng": "-81.18278907",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.18547336,
-          46.56933819
+          -81.18278907,
+          46.57106937
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
-        "cityF": "Little Current",
-        "addressF": "70, rue Meredith Est",
+        "cityF": "Northeastern Manitoulin and the Islands",
+        "addressF": "70 Meredith Street East",
         "nameE": "Elections Canada",
-        "cityE": "Little Current",
+        "cityE": "Northeastern Manitoulin and the Islands",
         "addressE": "70 Meredith Street East",
         "prov": "ON",
         "pstl": "P0P1K0",
-        "lat": "45.97794162",
-        "lng": "-81.91983262",
+        "lat": "45.97884335",
+        "lng": "-81.91766382",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.91983262,
-          45.97794162
+          -81.91766382,
+          45.97884335
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
-        "nameF": "2650 St. Clair Ave. W., Toronto",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
+        "nameF": "Élections Canada",
+        "cityF": "West Nipissing / Nipissing Ouest",
+        "addressF": "12006 Highway 17",
+        "nameE": "Elections Canada",
+        "cityE": "West Nipissing / Nipissing Ouest",
+        "addressE": "12006 Highway 17",
+        "prov": "ON",
+        "pstl": "P2B3K8",
+        "lat": "46.36549241",
+        "lng": "-79.91220019",
+        "sitetype": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.91220019,
+          46.36549241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
+        "nameF": "Élections Canada",
         "cityF": "Toronto",
-        "addressF": "2650, avenue St. Clair  Ouest",
-        "nameE": "2650 St. Clair Ave. W., Toronto",
+        "addressF": "2650 St. Clair  Avenue West",
+        "nameE": "Elections Canada",
         "cityE": "Toronto",
         "addressE": "2650 St. Clair  Avenue West",
         "prov": "ON",
         "pstl": "M6N1M2",
-        "lat": "43.66725261",
-        "lng": "-79.49602957",
+        "lat": "43.66670772",
+        "lng": "-79.49575613",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.49602957,
-          43.66725261
+          -79.49575613,
+          43.66670772
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
-        "cityF": "Thornhill",
-        "addressF": "10 Disera  Drive, bureau 260",
-        "nameE": "Elections Canada",
-        "cityE": "Thornhill",
-        "addressE": "10 Disera  Drive, Suite 260",
+        "cityF": "Vaughan",
+        "addressF": "10 Disera Drive",
+        "nameE": "Elections Canada ",
+        "cityE": "Vaughan",
+        "addressE": "10 Disera Drive",
         "prov": "ON",
         "pstl": "L4J0A7",
-        "lat": "43.8108064",
-        "lng": "-79.45429356",
+        "lat": "43.81071939",
+        "lng": "-79.45428679",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.45429356,
-          43.8108064
+          -79.45428679,
+          43.81071939
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
-        "nameF": "Élections Canada",
-        "cityF": "Atikokan",
-        "addressF": "103, rue Main Ouest",
-        "nameE": "Elections Canada",
-        "cityE": "Atikokan",
-        "addressE": "103 Main Street West",
-        "prov": "ON",
-        "pstl": "P0T1C0",
-        "lat": "48.75744392",
-        "lng": "-91.62209123",
-        "sitetype": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -91.62209123,
-          48.75744392
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Elections Canada",
         "cityF": "Fort Frances",
-        "addressF": "1227, rue Fifth Est",
+        "addressF": "1227 Fifth Street East",
         "nameE": "East End Community Centre",
         "cityE": "Fort Frances",
         "addressE": "1227 Fifth Street East",
         "prov": "ON",
         "pstl": "P9A1V8",
-        "lat": "48.61455908",
-        "lng": "-93.37158428",
+        "lat": "48.61445681",
+        "lng": "-93.36926711",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.37158428,
-          48.61455908
+          -93.36926711,
+          48.61445681
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
+        "nameF": "Élections Canada",
+        "cityF": "Atikokan",
+        "addressF": "103 Main Street West",
+        "nameE": "Elections Canada",
+        "cityE": "Atikokan",
+        "addressE": "103 Main Street West",
+        "prov": "ON",
+        "pstl": "P0T1C0",
+        "lat": "48.75745193",
+        "lng": "-91.62220103",
+        "sitetype": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.62220103,
+          48.75745193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Thunder Bay",
         "addressF": "145 Churchill Drive West",
@@ -3181,447 +3181,447 @@
         "addressE": "145 Churchill Drive West",
         "prov": "ON",
         "pstl": "P7C1V6",
-        "lat": "48.39066602",
-        "lng": "-89.28440998",
+        "lat": "48.39013985",
+        "lng": "-89.28272326",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.28440998,
-          48.39066602
+          -89.28272326,
+          48.39013985
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
-        "nameF": "Superior Survey Inc.",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
+        "nameF": "County Fair Mall",
+        "cityF": "Thunder Bay",
+        "addressF": "1020 Dawson Road",
+        "nameE": "County Fair Mall",
+        "cityE": "Thunder Bay",
+        "addressE": "1020 Dawson Road",
+        "prov": "ON",
+        "pstl": "P7B1K6",
+        "lat": "48.45200809",
+        "lng": "-89.25243581",
+        "sitetype": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.25243581,
+          48.45200809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
+        "nameF": "Elections Canada Regional Office - Geraldton",
+        "cityF": "Greenstone",
+        "addressF": "401 Main Street",
+        "nameE": "Elections Canada Regional Office - Geraldton",
+        "cityE": "Greenstone",
+        "addressE": "401 Main Street",
+        "prov": "ON",
+        "pstl": "P0T1M0",
+        "lat": "49.72354752",
+        "lng": "-86.94894858",
+        "sitetype": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.94894858,
+          49.72354752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
+        "nameF": "Superior Survey Inc. ",
         "cityF": "Marathon",
-        "addressF": "21, avenue Stevens",
-        "nameE": "Superior Survey Inc.",
+        "addressF": "21 Stevens Avenue",
+        "nameE": "Superior Survey Inc. ",
         "cityE": "Marathon",
         "addressE": "21 Stevens Avenue",
         "prov": "ON",
         "pstl": "P0T2E0",
-        "lat": "48.71748099",
-        "lng": "-86.382003",
+        "lat": "48.71700974",
+        "lng": "-86.38207563",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.382003,
-          48.71748099
+          -86.38207563,
+          48.71700974
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
-        "nameF": "Elections Canada Regional Office - Geraldton",
-        "cityF": "Geraldton",
-        "addressF": "401, rue Main",
-        "nameE": "Elections Canada Regional Office - Geraldton",
-        "cityE": "Geraldton",
-        "addressE": "401 Main Street",
-        "prov": "ON",
-        "pstl": "P0T1M0",
-        "lat": "49.72337341",
-        "lng": "-86.94869057",
-        "sitetype": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.94869057,
-          49.72337341
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Nipigon",
-        "addressF": "102, rue Fifth",
+        "addressF": "102 Fifth Street",
         "nameE": "Royal Canadian Legion Branch 32 - Nipigon",
         "cityE": "Nipigon",
         "addressE": "102 Fifth Street",
         "prov": "ON",
         "pstl": "P0T2J0",
-        "lat": "49.01461699",
-        "lng": "-88.26338529",
+        "lat": "49.01455869",
+        "lng": "-88.26386189",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.26338529,
-          49.01461699
+          -88.26386189,
+          49.01455869
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
-        "nameF": "County Fair Mall",
-        "cityF": "Thunder Bay",
-        "addressF": "1020 Dawson Road, bureau 19",
-        "nameE": "County Fair Mall",
-        "cityE": "Thunder Bay",
-        "addressE": "1020 Dawson Road, Suite 19",
-        "prov": "ON",
-        "pstl": "P7B1K6",
-        "lat": "48.45235498",
-        "lng": "-89.25282596",
-        "sitetype": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.25282596,
-          48.45235498
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "La Tour TD Canada Trust",
         "cityF": "Toronto",
-        "addressF": "161, rue Bay, bureau 2700",
+        "addressF": "161 Bay Street",
         "nameE": "TD Canada Trust Tower",
         "cityE": "Toronto",
-        "addressE": "161 Bay Street, Suite 2700",
+        "addressE": "161 Bay Street",
         "prov": "ON",
         "pstl": "M5J2S1",
-        "lat": "43.64652768",
-        "lng": "-79.37877907",
+        "lat": "43.64615844",
+        "lng": "-79.37918324",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.37877907,
-          43.64652768
+          -79.37918324,
+          43.64615844
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Église Holy Name",
         "cityF": "Toronto",
-        "addressF": "606, avenue Danforth",
+        "addressF": "606 Danforth Avenue",
         "nameE": "Holy Name Church",
         "cityE": "Toronto",
         "addressE": "606 Danforth Avenue",
         "prov": "ON",
         "pstl": "M4K1R3",
-        "lat": "43.67909079",
-        "lng": "-79.34594857",
+        "lat": "43.67871415",
+        "lng": "-79.34604395",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.34594857,
-          43.67909079
+          -79.34604395,
+          43.67871415
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Canada Square",
         "cityF": "Toronto",
-        "addressF": "2200, rue Yonge, bureau 700",
+        "addressF": "2200 Yonge Street",
         "nameE": "Canada Square",
         "cityE": "Toronto",
-        "addressE": "2200 Yonge Street, Suite 700",
+        "addressE": "2200 Yonge Street",
         "prov": "ON",
         "pstl": "M4S2C6",
-        "lat": "43.70604112",
-        "lng": "-79.3985513",
+        "lat": "43.70612474",
+        "lng": "-79.39822906",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.3985513,
-          43.70604112
+          -79.39822906,
+          43.70612474
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
-        "nameF": "Cumberland Terrace",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
+        "nameF": "Elections Canada",
         "cityF": "Toronto",
-        "addressF": "2, rue Bloor Ouest, bureau 600",
-        "nameE": "Cumberland Terrace",
+        "addressF": "2 Bloor Street West",
+        "nameE": "Elections Canada",
         "cityE": "Toronto",
-        "addressE": "2 Bloor Street West, Suite 600",
+        "addressE": "2 Bloor Street West",
         "prov": "ON",
         "pstl": "M4W3E2",
-        "lat": "43.6703879",
-        "lng": "-79.38706709",
+        "lat": "43.67106583",
+        "lng": "-79.38714044",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.38706709,
-          43.6703879
+          -79.38714044,
+          43.67106583
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
-        "cityF": "Woodbridge",
-        "addressF": "6221 Highway 7, bureau 1,2,3",
+        "cityF": "Vaughan",
+        "addressF": "6221 Highway 7",
         "nameE": "Elections Canada",
-        "cityE": "Woodbridge",
-        "addressE": "6221 Highway 7, Suite 1,2,3",
+        "cityE": "Vaughan",
+        "addressE": "6221 Highway 7",
         "prov": "ON",
         "pstl": "L4H0K8",
-        "lat": "43.77056279",
-        "lng": "-79.62923553",
+        "lat": "43.7709978",
+        "lng": "-79.62917692",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.62923553,
-          43.77056279
+          -79.62917692,
+          43.7709978
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Elections Canada",
         "cityF": "Waterloo",
-        "addressF": "725, rue Bridge Ouest, bureau 101",
+        "addressF": "725 Bridge Street West",
         "nameE": "Elections Canada",
         "cityE": "Waterloo",
-        "addressE": "725 Bridge Street West, Suite 101",
+        "addressE": "725 Bridge Street West",
         "prov": "ON",
         "pstl": "N2V2H1",
-        "lat": "43.51126602",
-        "lng": "-80.52210997",
+        "lat": "43.51151324",
+        "lng": "-80.52191955",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.52210997,
-          43.51126602
+          -80.52191955,
+          43.51151324
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
-        "cityF": "Acton",
+        "cityF": "Halton Hills",
         "addressF": "242 Churchill Road North",
         "nameE": "Acton Curling Club",
-        "cityE": "Acton",
+        "cityE": "Halton Hills",
         "addressE": "242 Churchill Road North",
         "prov": "ON",
-        "pstl": "L7J2J2",
-        "lat": "43.643326",
-        "lng": "-80.03748098",
+        "pstl": "L7J2L8",
+        "lat": "43.64345915",
+        "lng": "-80.03671728",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.03748098,
-          43.643326
+          -80.03671728,
+          43.64345915
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Whitby",
-        "addressF": "1650, rue Dundas Est, bureau 200",
+        "addressF": "1650 Dundas Street East",
         "nameE": "Elections Canada",
         "cityE": "Whitby",
-        "addressE": "1650 Dundas Street East, Suite 200",
+        "addressE": "1650 Dundas Street East",
         "prov": "ON",
         "pstl": "L1N2K8",
-        "lat": "43.88769901",
-        "lng": "-78.909754",
+        "lat": "43.8876311",
+        "lng": "-78.91019238",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.909754,
-          43.88769901
+          -78.91019238,
+          43.8876311
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
-        "cityF": "North York",
-        "addressF": "5255, rue Yonge, bureau 1000",
+        "cityF": "Toronto",
+        "addressF": "5255 Yonge Street",
         "nameE": "Yonge Norton Centre",
-        "cityE": "North York",
-        "addressE": "5255 Yonge Street, Suite 1000",
+        "cityE": "Toronto",
+        "addressE": "5255 Yonge Street",
         "prov": "ON",
         "pstl": "M2N6P4",
-        "lat": "43.77212991",
-        "lng": "-79.41293666",
+        "lat": "43.77211938",
+        "lng": "-79.41358319",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.41293666,
-          43.77212991
+          -79.41358319,
+          43.77211938
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Green Valley Plaza",
         "cityF": "Tecumseh",
-        "addressF": "13300 Tecumseh Road East, bureau 222",
+        "addressF": "13300 Tecumseh Road East",
         "nameE": "Green Valley Plaza",
         "cityE": "Tecumseh",
-        "addressE": "13300 Tecumseh Road East, Suite 222",
+        "addressE": "13300 Tecumseh Road East",
         "prov": "ON",
         "pstl": "N8N4R8",
-        "lat": "42.313138",
-        "lng": "-82.87063902",
+        "lat": "42.31233697",
+        "lng": "-82.86935091",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.87063902,
-          42.313138
+          -82.86935091,
+          42.31233697
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Windsor",
-        "addressF": "850, avenue Ouellette",
+        "addressF": "850 Ouellette Avenue",
         "nameE": "Elections Canada",
         "cityE": "Windsor",
         "addressE": "850 Ouellette Avenue",
         "prov": "ON",
         "pstl": "N9A4M9",
-        "lat": "42.31132541",
-        "lng": "-83.03420533",
+        "lat": "42.3108681",
+        "lng": "-83.03473957",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -83.03420533,
-          42.31132541
+          -83.03473957,
+          42.3108681
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Toronto",
-        "addressF": "1117, avenue Finch Ouest, bureau A",
+        "addressF": "1117 Finch Avenue West",
         "nameE": "Elections Canada",
         "cityE": "Toronto",
-        "addressE": "1117 Finch Avenue West, Suite A",
+        "addressE": "1117 Finch Avenue West",
         "prov": "ON",
         "pstl": "M3J2P7",
-        "lat": "43.76604029",
-        "lng": "-79.47659194",
+        "lat": "43.76649863",
+        "lng": "-79.47740449",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.47659194,
-          43.76604029
+          -79.47740449,
+          43.76649863
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Uxbridge",
-        "addressF": "2 Victoria Drive, bureau 5th FL",
+        "addressF": "2 Victoria Drive",
         "nameE": "Elections Canada",
         "cityE": "Uxbridge",
-        "addressE": "2 Victoria Drive, Suite 5th FL",
+        "addressE": "2 Victoria Drive",
         "prov": "ON",
         "pstl": "L9P1G8",
-        "lat": "44.10520443",
-        "lng": "-79.12531041",
+        "lat": "44.10785907",
+        "lng": "-79.12605195",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.12531041,
-          44.10520443
+          -79.12605195,
+          44.10785907
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "location_fetched_at": "Mon, 07 Apr 2025 06:02:02 GMT",
+        "location_fetched_at": "Tue, 08 Apr 2025 06:01:41 GMT",
         "nameF": "Élections Canada",
         "cityF": "Toronto",
-        "addressF": "501, avenue Alliance, bureau 400",
+        "addressF": "501 Alliance Avenue",
         "nameE": "Elections Canada",
         "cityE": "Toronto",
-        "addressE": "501 Alliance Avenue, Suite 400",
+        "addressE": "501 Alliance Avenue",
         "prov": "ON",
         "pstl": "M6N2J1",
-        "lat": "43.6763743",
-        "lng": "-79.48830397",
+        "lat": "43.67694967",
+        "lng": "-79.4890699",
         "sitetype": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.48830397,
-          43.6763743
+          -79.4890699,
+          43.67694967
         ]
       }
     }
