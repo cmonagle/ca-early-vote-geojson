@@ -1,3 +1,9 @@
+# Repository Archived
+
+Early voting for the 2025 Canadian election has concluded. This repository is now archived and will no longer be updated.
+
+Le vote d'avance pour l'élection canadienne de 2025 est terminé. Ce repo est maintenant archivé et ne sera plus mis à jour.
+
 # Bureaux d'Élections Canada / Election Canada Offices
 
 This repo contains a script (`index.ts`) that runs every night (around 1am) on a GitHub action. It fetches early vote locations from [Elections Canada](https://elections.ca) and converts the office locations to the GeoJSON format.
